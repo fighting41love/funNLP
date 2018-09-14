@@ -137,4 +137,12 @@ say wo i ni
 ```
 **19\. 同义词库、反义词库、否定词库：**[phunterlau/wangfeng-rnn](https://github.com/phunterlau/wangfeng-rnn)
 
+**20\. 无空格英文串分割、抽取单词：**[wordinja](https://github.com/keredson/wordninja)
+```
+>>> import wordninja
+>>> wordninja.split('derekanderson')
+['derek', 'anderson']
+>>> wordninja.split('imateapot')
+['im', 'a', 'teapot']
+```
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。。。
