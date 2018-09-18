@@ -161,4 +161,8 @@ say wo i ni
 ```
 [A-Za-z0-9_\-\u4e00-\u9fa5]+
 ```
+**25\. 汽车品牌、汽车零件相关词汇：**
+```
+见本repo的data文件 [data](https://github.com/fighting41love/funNLP/tree/master/data)
+```
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。。。
