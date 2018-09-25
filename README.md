@@ -171,15 +171,15 @@ say wo i ni
 
 Hi，all。下周一下午三点开会
 
-2016-06-13 15:00:00-false
+>> 2016-06-13 15:00:00-false
 
 周一开会
 
-2016-06-13 00:00:00-true
+>> 2016-06-13 00:00:00-true
 
 下下周一开会
 
-2016-06-20 00:00:00-true
+>> 2016-06-20 00:00:00-true
 ```
 [java version]( https://github.com/shinyke/Time-NLP)
 [python version] (https://github.com/zhanzecheng/Time_NLP)
