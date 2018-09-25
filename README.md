@@ -164,5 +164,23 @@ say wo i ni
 **25\. 汽车品牌、汽车零件相关词汇：**
 ```
 见本repo的data文件 [data](https://github.com/fighting41love/funNLP/tree/master/data)
+**26\. 时间抽取
+```
+在2016年6月7日9:44执行測試，结果如下：
+
+Hi，all。下周一下午三点开会
+
+2016-06-13 15:00:00-false
+
+周一开会
+
+2016-06-13 00:00:00-true
+
+下下周一开会
+
+2016-06-20 00:00:00-true
+```
+java version: https://github.com/shinyke/Time-NLP
+python version: https://github.com/zhanzecheng/Time_NLP
 ```
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。。。
