@@ -183,6 +183,7 @@ Hi，all。下周一下午三点开会
 ```
 [java version]( https://github.com/shinyke/Time-NLP)
 
-[python version] (https://github.com/zhanzecheng/Time_NLP)
+[python version](https://github.com/zhanzecheng/Time_NLP)
 ```
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。。。
+```
