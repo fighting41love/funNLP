@@ -185,4 +185,17 @@ Hi，all。下周一下午三点开会
 
 [python version](https://github.com/zhanzecheng/Time_NLP)
 
+**27\. 连续英文切割：** [github repo](https://github.com/keredson/wordninja)
+
+可用于网址中的英文单词切割等任务
+```
+>>> import wordninja
+>>> wordninja.split('derekanderson')
+['derek', 'anderson']
+>>> wordninja.split('imateapot')
+['im', 'a', 'teapot']
+>>> wordninja.split('heshotwhointhewhatnow')
+['he', 'shot', 'who', 'in', 'the', 'what', 'now']
+```
+
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
