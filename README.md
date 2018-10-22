@@ -200,5 +200,9 @@ Hi，all。下周一下午三点开会
 **28\. 各种中文词向量：** [github repo](https://github.com/Embedding/Chinese-Word-Vectors)
 
 中文词向量大全
+**29\. 公司名字大全：** [github repo](https://github.com/wainshine/Company-Names-Corpus)
+
+**29\. 古诗词库：** [github repo](https://github.com/panhaiqi/AncientPoetry)
+
 
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
