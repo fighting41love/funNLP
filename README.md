@@ -136,7 +136,7 @@ say wo i ni
 可我们这是一个知道
 我只是一天你会怎吗
 ```
-**19\. 同义词库、反义词库、否定词库：**[phunterlau/wangfeng-rnn](https://github.com/phunterlau/wangfeng-rnn)
+**19\. 同义词库、反义词库、否定词库：**[guotong1988/chinese_dictionary](https://github.com/guotong1988/chinese_dictionary)
 
 **20\. 无空格英文串分割、抽取单词：**[wordinja](https://github.com/keredson/wordninja)
 ```
