@@ -186,33 +186,21 @@ Hi，all。下周一下午三点开会
 
 [python version](https://github.com/zhanzecheng/Time_NLP)
 
-**27\. 连续英文切割：** [github repo](https://github.com/keredson/wordninja)
-
-可用于网址中的英文单词切割等任务
-```
->>> import wordninja
->>> wordninja.split('derekanderson')
-['derek', 'anderson']
->>> wordninja.split('imateapot')
-['im', 'a', 'teapot']
->>> wordninja.split('heshotwhointhewhatnow')
-['he', 'shot', 'who', 'in', 'the', 'what', 'now']
-```
-**28\. 各种中文词向量：** [github repo](https://github.com/Embedding/Chinese-Word-Vectors)
+**27\. 各种中文词向量：** [github repo](https://github.com/Embedding/Chinese-Word-Vectors)
 
 中文词向量大全
 
-**29\. 公司名字大全：** [github repo](https://github.com/wainshine/Company-Names-Corpus)
+**28\. 公司名字大全：** [github repo](https://github.com/wainshine/Company-Names-Corpus)
 
-**30\. 古诗词库：** [github repo](https://github.com/panhaiqi/AncientPoetry)
+**29\. 古诗词库：** [github repo](https://github.com/panhaiqi/AncientPoetry)
 
-**31\. THU整理的词库：** [link](http://thuocl.thunlp.org/sendMessage)
+**30\. THU整理的词库：** [link](http://thuocl.thunlp.org/sendMessage)
 
 已整理到本repo的data文件夹中.
 ```
 IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库
 ```
-**32\. 中文聊天语料** [link](https://github.com/codemayq/chaotbot_corpus_Chinese)
+**31\. 中文聊天语料** [link](https://github.com/codemayq/chaotbot_corpus_Chinese)
 ```
 该库搜集了包含:豆瓣多轮, PTT八卦语料, 青云语料, 电视剧对白语料, 贴吧论坛回帖语料,微博语料,小黄鸡语料
 ```
