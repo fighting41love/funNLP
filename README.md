@@ -204,4 +204,19 @@ IT词库、财经词库、成语词库、地名词库、历史名人词库、诗
 ```
 该库搜集了包含:豆瓣多轮, PTT八卦语料, 青云语料, 电视剧对白语料, 贴吧论坛回帖语料,微博语料,小黄鸡语料
 ```
+**32\. 中文谣言数据**[github](https://github.com/thunlp/Chinese_Rumor_Dataset)
+```
+该数据文件中，每一行为一条json格式的谣言数据，字段释义如下：
+
+rumorCode: 该条谣言的唯一编码，可以通过该编码直接访问该谣言举报页面。
+title: 该条谣言被举报的标题内容
+informerName: 举报者微博名称
+informerUrl: 举报者微博链接
+rumormongerName: 发布谣言者的微博名称
+rumormongerUr: 发布谣言者的微博链接
+rumorText: 谣言内容
+visitTimes: 该谣言被访问次数
+result: 该谣言审查结果
+publishTime: 该谣言被举报时间
+```
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
