@@ -192,7 +192,7 @@ Hi，all。下周一下午三点开会
 
 **28\. 公司名字大全：** [github repo](https://github.com/wainshine/Company-Names-Corpus)
 
-**29\. 古诗词库：** [github repo](https://github.com/panhaiqi/AncientPoetry)
+**29\. 古诗词库：** [github repo](https://github.com/panhaiqi/AncientPoetry) [更全的古诗词库](https://github.com/chinese-poetry/chinese-poetry)
 
 **30\. THU整理的词库：** [link](http://thuocl.thunlp.org/sendMessage)
 
