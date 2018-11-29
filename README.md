@@ -220,3 +220,10 @@ result: 该谣言审查结果
 publishTime: 该谣言被举报时间
 ```
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
+
+**33\. 情感波动分析：**[github](https://github.com/CasterWx/python-girlfriend-mood/)
+
+词库已整理到本repo的data文件夹中.
+```
+本repo项目是一个通过与人对话获得其情感值波动图谱, 内用词库在data文件夹中.
+```
