@@ -17,14 +17,17 @@
 **2\. langid：97种语言检测** [https://github.com/saffsd/langid.py](https://github.com/saffsd/langid.py)
 
 > pip install langid
+
 ```
 >>> import langid
 >>> langid.classify("This is a test")
 ('en', -54.41310358047485)
 ```
+
 **3\. langdetect：另一个语言检测**[https://code.google.com/archive/p/language-detection/](https://code.google.com/archive/p/language-detection/)
 
 > pip install langdetect
+
 ```
 from langdetect import detect
 from langdetect import detect_langs
@@ -39,6 +42,7 @@ print(detect_langs(s3))    # detect_langs()输出探测出的所有语言类型�
 输出结果如下： 注：语言类型主要参考的是ISO 639-1语言编码标准，详见[ISO 639-1百度百科](https://baike.baidu.com/item/ISO%20639-1)
 
 跟上一个语言检测比较，准确率低，效率高。
+
 
 **4\. phone 中国手机归属地查询：** [ls0f/phone](https://github.com/ls0f/phone)
 ```
@@ -56,14 +60,16 @@ p.find(18100065143)
 **5\. phone国际手机、电话归属地查询：**[AfterShip/phone](https://github.com/AfterShip/phone)
 
 > npm install phone
+
 ```
 import phone from 'phone';
 phone('+852 6569-8900'); // return ['+85265698900', 'HKG']
 phone('(817) 569-8900'); // return ['+18175698900, 'USA']
 ```
-**6\. ngender 根据名字判断性别：**[observerss/ngender](https://github.com/observerss/ngender)
+**6\. ngender 根据名字判断性别：**[observerss/ngender](https://github.com/observerss/ngender) 基于朴素贝叶斯计算的概率
 
-> pip install ngender # 基于朴素贝叶斯计算的概率
+> pip install ngender
+
 ```
 >>> import ngender
 >>> ngender.guess('赵本山')
@@ -204,7 +210,7 @@ IT词库、财经词库、成语词库、地名词库、历史名人词库、诗
 ```
 该库搜集了包含:豆瓣多轮, PTT八卦语料, 青云语料, 电视剧对白语料, 贴吧论坛回帖语料,微博语料,小黄鸡语料
 ```
-**32\. 中文谣言数据**[github](https://github.com/thunlp/Chinese_Rumor_Dataset)
+**32\. 中文谣言数据:** [github](https://github.com/thunlp/Chinese_Rumor_Dataset)
 ```
 该数据文件中，每一行为一条json格式的谣言数据，字段释义如下：
 
@@ -219,7 +225,7 @@ visitTimes: 该谣言被访问次数
 result: 该谣言审查结果
 publishTime: 该谣言被举报时间
 ```
-[jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
+
 
 **33\. 情感波动分析：**[github](https://github.com/CasterWx/python-girlfriend-mood/)
 
@@ -227,3 +233,30 @@ publishTime: 该谣言被举报时间
 ```
 本repo项目是一个通过与人对话获得其情感值波动图谱, 内用词库在data文件夹中.
 ```
+
+**34\. 百度中文问答数据集**：[链接](https://pan.baidu.com/s/1QUsKcFWZ7Tg1dk_AbldZ1A) 提取码: 2dva
+
+**35\. 句子、QA相似度匹配:MatchZoo**  [github](https://github.com/NTMC-Community/MatchZoo)
+
+文本相似度匹配算法的集合，包含多个深度学习的方法，值得尝试。
+
+**36\. bert资源：**
+
++ 文本分类实践: [github](https://github.com/NLPScott/bert-Chinese-classification-task)
+
++ bert tutorial文本分类教程: [github](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial)
+
++ bert pytorch实现:  [github](https://github.com/huggingface/pytorch-pretrained-BERT)
+
++ bert用于中文命名实体识别 tensorflow版本: [github](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
+
++ bert、ELMO的图解： [github](https://jalammar.github.io/illustrated-bert/)
+
++ BERT: Pre-trained models and downstream applications: [github](https://github.com/asyml/texar/tree/master/examples/bert)
+
+**37. Texar - Toolkit for Text Generation and Beyond**: [github](https://github.com/asyml/texar)
+
+基于Tensorflow的开源工具包，旨在支持广泛的机器学习，特别是文本生成任务，如机器翻译、对话、摘要、内容处置、语言建模等
+
+
+[jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
