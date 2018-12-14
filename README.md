@@ -277,7 +277,7 @@ publishTime: 该谣言被举报时间
 
 中文复合事件抽取，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
 
-**39. cocoNLP: ** [github](https://github.com/fighting41love/cocoNLP)
+**39\. cocoNLP:** [github](https://github.com/fighting41love/cocoNLP)
 
 人名、地址、邮箱、手机号、手机归属地 等信息的抽取，rake短语抽取算法。
 > pip install cocoNLP
