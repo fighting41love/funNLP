@@ -365,10 +365,14 @@ time {"type": "timestamp", "timestamp": "2018-11-27 11:00:00"}
 **44\.:**
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必介绍了吧。
 
-**45\.NLP太难了系列:** [github]
-```
-来到杨过曾经生活过的地方，小龙女动情地说：“我也想过过过儿过过的生活。” ​​​
-```
+**45\.NLP太难了系列:** [github](https://github.com/fighting41love/hardNLP)
+
+- 来到杨过曾经生活过的地方，小龙女动情地说：“我也想过过过儿过过的生活。” ​​​  
+- 来到儿子等校车的地方，邓超对孙俪说：“我也想等等等等等过的那辆车。”  
+- 赵敏说：我也想控忌忌己不想无忌。
+- 你也想犯范范范玮琪犯过的错吗  
+- 对叙打击是一次性行为？
+
 
 **46\.自动对联数据及机器人:**  
 [70万对联数据 link](https://github.com/wb14123/couplet-dataset)  
