@@ -319,4 +319,102 @@ time {"type": "timestamp", "timestamp": "2018-11-27 11:00:00"}
 
 ```
 
-[jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必说了吧。
+**40\. 国内电话号码正则匹配（三大运营商+虚拟等）:** [github](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
+
+**41\. 清华大学XLORE:中英文跨语言百科知识图谱:** [link](https://xlore.org/download.html)  
+上述链接中包含了所有实体及关系的TTL文件，更多数据将在近期发布。
+概念，实例，属性和上下位关系数目
+
+  | 百度  |中文维基   | 英文维基  |  总数
+--|---|---|---|--
+概念数量 |32,009	|	150,241|	326,518|	508,768
+实例数量|	1,629,591	|640,622|	1,235,178|	3,505,391
+属性数量|	157,370	|45,190	|26,723	|229.283
+InstanceOf|	7,584,931|	1,449,925|	3,032,515	|12,067,371
+SubClassOf|	2,784	|191,577|	555,538	|749,899
+
+跨语言连接（概念/实例）
+
+  |  百度 | 中文维基  |  英文维基
+--|---|---|--		
+百度|	-|	10,216/336,890|	4,846/303,108
+中文维基|	10,216/336,890|	-	|28,921/454,579
+英文维基|	4,846/303,108	|28,921/454,579|	-
+
+**42\. 清华大学人工智能技术系列报告：** [link](https://reports.aminer.cn)
+每年会出AI领域相关的报告，内容包含
+  - 自然语言处理 [link](https://static.aminer.cn/misc/article/nlp.pdf)
+  - 知识图谱 [link](https://www.aminer.cn/research_report/5c3d5a8709%20e961951592a49d?download=true&pathname=knowledgegraph.pdf)
+  - 数据挖掘 [link](https://www.aminer.cn/research_report/5c3d5a5cecb160952fa10b76?download=true&pathname=datamining.pdf)
+  - 自动驾驶 [link](https://static.aminer.cn/misc/article/selfdriving.pdf)
+  - 机器翻译 [link](https://static.aminer.cn/misc/article/translation.pdf)
+  - 区块链 [link](https://static.aminer.cn/misc/article/blockchain_public.pdf)
+  - 机器人 [link](https://static.aminer.cn/misc/article/robotics_beta.pdf)
+  - 计算机图形学 [link](https://static.aminer.cn/misc/article/cg.pdf)
+  - 3D打印 [link](https://static.aminer.cn/misc/article/3d.pdf)
+  - 人脸识别 [link](https://static.aminer.cn/misc/article/facerecognition.pdf)
+  - 人工智能芯片 [link](https://static.aminer.cn/misc/article/aichip.pdf)
+  - 等等
+
+**43\.自然语言生成方面:**  
+[Ehud Reiter教授的博客](https://ehudreiter.com)  北大万小军教授强力推荐，该博客对NLG技术、评价与应用进行了深入的探讨与反思。
+[文本生成相关资源大列表](https://github.com/ChenChengKuan/awesome-text-generation)
+[自然语言生成：让机器掌握自动创作的本领 - 开放域对话生成及在微软小冰中的实践](https://drive.google.com/file/d/1Mdna3q986k6OoJNsfAHznTtnMAEVzv5z/view)
+[文本生成控制](https://github.com/harvardnlp/Talk-Latent/blob/master/main.pdf)
+
+**44\.:**
+[jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必介绍了吧。
+
+**45\.NLP太难了系列:** [github]
+```
+来到杨过曾经生活过的地方，小龙女动情地说：“我也想过过过儿过过的生活。” ​​​
+```
+
+**46\.自动对联数据及机器人:**  
+[70万对联数据 link](https://github.com/wb14123/couplet-dataset)  
+[代码 link](https://github.com/wb14123/seq2seq-couplet)  
+
+上联  |下联  
+--|--
+殷勤怕负三春意  | 潇洒难书一字愁
+如此清秋何吝酒  | 这般明月不须钱
+
+**47\.用户名黑名单列表：** [github](https://github.com/marteinn/The-Big-Username-Blacklist)
+包含了用户名禁用列表，比如: [link](https://github.com/marteinn/The-Big-Username-Blacklist/blob/master/list_raw.txt)
+```
+administrator
+administration
+autoconfig
+autodiscover
+broadcasthost
+domain
+editor
+guest
+host
+hostmaster
+info
+keybase.txt
+localdomain
+localhost
+master
+mail
+mail0
+mail1
+```
+
+**48\.罪名法务名词及分类模型:**   [github](https://github.com/liuhuanyong/CrimeKgAssitant)  
+```
+包含856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能
+```
+**49\.微信公众号语料:** [github](https://github.com/nonamestreet/weixin_public_corpus)
+
+3G语料，包含部分网络抓取的微信公众号的文章，已经去除HTML，只包含了纯文本。每行一篇，是JSON格式，name是微信公众号名字，account是微信公众号ID，title是题目，content是正文
+
+**50\.cs224n深度学习自然语言处理课程：**[link](http://web.stanford.edu/class/cs224n/)
+
+**51\.中文手写汉字识别：**[github](https://github.com/chizhanyuefeng/Chinese_OCR_CNN-RNN-CTC)
+
+**52\.中文自然语言处理 语料/数据集：**[github](https://github.com/SophonPlus/ChineseNlpCorpus)
+[竞品：THUOCL（THU Open Chinese Lexicon）中文词库](https://github.com/thunlp/THUOCL)
+
+**53\.变量命名神器：**[github](https://github.com/unbug/codelf) [link](https://unbug.github.io/codelf/)
