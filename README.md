@@ -127,11 +127,11 @@ IDs = re.findall(IDCards_pattern, text, flags=0)
 视野	        宽广	0.305762728932	0.325320747491
 大峡谷	惊险	0.312137906517	0.378594957281
 ```
-**14\. 中文词库、停用词、敏感词** [dongxiexidian/Chinese](https://github.com/dongxiexidian/Chinese)
+**14\. 中文词库、停用词、敏感词** [dongxiexidian/Chinese](https://github.com/fighting41love/Chinese_from_dongxiexidian)
 
 此package的敏感词库分类更细：
 
-[反动词库](https://github.com/dongxiexidian/Chinese/blob/master/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93/%E5%8F%8D%E5%8A%A8%E8%AF%8D%E5%BA%93.txt)， [敏感词库表统计](https://github.com/dongxiexidian/Chinese/blob/master/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E8%A1%A8%E7%BB%9F%E8%AE%A1.txt)， [暴恐词库](https://github.com/dongxiexidian/Chinese/blob/master/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93/%E6%9A%B4%E6%81%90%E8%AF%8D%E5%BA%93.txt)， [民生词库](https://github.com/dongxiexidian/Chinese/blob/master/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93/%E6%B0%91%E7%94%9F%E8%AF%8D%E5%BA%93.txt)， [色情词库](https://github.com/dongxiexidian/Chinese/blob/master/%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93/%E8%89%B2%E6%83%85%E8%AF%8D%E5%BA%93.txt)
+[反动词库](https://github.com/fighting41love/funNLP/tree/master/data/敏感词库)， [敏感词库表统计](https://github.com/fighting41love/funNLP/tree/master/data/敏感词库)， [暴恐词库](https://github.com/fighting41love/funNLP/tree/master/data/敏感词库)， [民生词库](https://github.com/fighting41love/funNLP/tree/master/data/敏感词库)， [色情词库](https://github.com/fighting41love/funNLP/tree/master/data/敏感词库)
 
 **15\. 汉字转拼音：**[mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)
 
