@@ -265,6 +265,8 @@ publishTime: 该谣言被举报时间
 
 + bert用于中文命名实体识别 tensorflow版本: [github](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
 
++ bert 基于 keras 的封装分类标注框架 Kashgari，几分钟即可搭建一个分类或者序列标注模型: [github](https://github.com/BrikerMan/Kashgari)
+
 + bert、ELMO的图解： [github](https://jalammar.github.io/illustrated-bert/)
 
 + BERT: Pre-trained models and downstream applications: [github](https://github.com/asyml/texar/tree/master/examples/bert)
