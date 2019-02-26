@@ -257,6 +257,9 @@ publishTime: 该谣言被举报时间
 
 **36\. bert资源：**
 
++ Bert原作者的slides: [link](https://pan.baidu.com/s/1OSPsIu2oh1iJ-bcXoDZpJQ)
+   提取码: iarj 
+
 + 文本分类实践: [github](https://github.com/NLPScott/bert-Chinese-classification-task)
 
 + bert tutorial文本分类教程: [github](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial)
@@ -414,7 +417,10 @@ mail1
 
 3G语料，包含部分网络抓取的微信公众号的文章，已经去除HTML，只包含了纯文本。每行一篇，是JSON格式，name是微信公众号名字，account是微信公众号ID，title是题目，content是正文
 
-**50\.cs224n深度学习自然语言处理课程：**[link](http://web.stanford.edu/class/cs224n/)
+**50\.cs224n深度学习自然语言处理课程：**[link](http://web.stanford.edu/class/cs224n/)  
+  - 课程中模型的pytorch实现 [link](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+  - 面向深度学习研究人员的自然语言处理实例教程 [link](https://github.com/graykode/nlp-tutorial)
+
 
 **51\.中文手写汉字识别：**[github](https://github.com/chizhanyuefeng/Chinese_OCR_CNN-RNN-CTC)
 
@@ -422,3 +428,62 @@ mail1
 [竞品：THUOCL（THU Open Chinese Lexicon）中文词库](https://github.com/thunlp/THUOCL)
 
 **53\.变量命名神器：**[github](https://github.com/unbug/codelf) [link](https://unbug.github.io/codelf/)
+
+**54\.分词语料库：**[百度网盘链接](https://pan.baidu.com/s/1MXZONaLgeaw0_TxZZDAIYQ)   
+ - 提取码: pea6 
+ - [keras实现的基于Bi-LSTM + CRF的中文分词+词性标注](https://github.com/GlassyWing/bi-lstm-crf)
+ - [基于Universal Transformer + CRF 的中文分词和词性标注](https://github.com/GlassyWing/transformer-word-segmenter)
+ - [快速神经网络分词包 java version](https://github.com/yaoguangluo/NeroParser)
+
+**55\. NLP新书推荐《Natural Language Processing》by Jacob Eisenstein：** [link](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+**56\. 任务型对话英文数据集：**   [github](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey)  
+【最全任务型对话数据集】主要介绍了一份任务型对话数据集大全，这份数据集大全涵盖了到目前在任务型对话领域的所有常用数据集的主要信息。此外，为了帮助研究者更好的把握领域进展的脉络，我们以Leaderboard的形式给出了几个数据集上的State-of-the-art实验结果。
+
+**57\. ASR 语音数据集 + 基于深度学习的中文语音识别系统：**  [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
++ Data Sets 数据集
+  * **清华大学THCHS30中文语音数据集**
+
+    data_thchs30.tgz 
+  [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/18/data_thchs30.tgz>)
+  [OpenSLR国外镜像](<http://www.openslr.org/resources/18/data_thchs30.tgz>)
+
+    test-noise.tgz 
+  [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/18/test-noise.tgz>)
+  [OpenSLR国外镜像](<http://www.openslr.org/resources/18/test-noise.tgz>)
+
+    resource.tgz 
+  [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/18/resource.tgz>)
+  [OpenSLR国外镜像](<http://www.openslr.org/resources/18/resource.tgz>)
+
+  * **Free ST Chinese Mandarin Corpus** 
+
+    ST-CMDS-20170001_1-OS.tar.gz 
+  [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz>)
+  [OpenSLR国外镜像](<http://www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz>)
+
+  * **AIShell-1 开源版数据集** 
+
+    data_aishell.tgz
+  [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/33/data_aishell.tgz>)
+  [OpenSLR国外镜像](<http://www.openslr.org/resources/33/data_aishell.tgz>)
+
+  注：数据集解压方法
+
+  ```
+  $ tar xzf data_aishell.tgz
+  $ cd data_aishell/wav
+  $ for tar in *.tar.gz;  do tar xvf $tar; done
+  ```
+
+  * **Primewords Chinese Corpus Set 1** 
+
+    primewords_md_2018_set1.tar.gz
+  [OpenSLR国内镜像](<http://cn-mirror.openslr.org/resources/47/primewords_md_2018_set1.tar.gz>)
+  [OpenSLR国外镜像](<http://www.openslr.org/resources/47/primewords_md_2018_set1.tar.gz>)
+
+**57\. ASR 语音数据集 + 基于深度学习的中文语音识别系统：**  [github](https://github.com/nl8590687/ASRT_SpeechRecognition)
+
+**58\. 笑声检测器：**  [github]([https://github.com/nl8590687/ASRT_SpeechRecognition](https://github.com/ideo/LaughDetection))
+
+**59\. Microsoft多语言数字/单位/如日期时间识别包：** [github](https://github.com/Microsoft/Recognizers-Text)
