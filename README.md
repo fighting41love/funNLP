@@ -3,7 +3,7 @@
 很多包非常有趣，值得收藏，满足大家的收集癖！
 如果觉得有用，请分享并star，谢谢！
 
-涉及内容包括：**中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLP太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api，包括常用歇后语、成语、词语和汉字、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke**。
+涉及内容包括：**中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke**。
 
 **1\. textfilter: 中英文敏感词过滤**  [observerss/textfilter](https://github.com/observerss/textfilter)
 ```
@@ -492,23 +492,26 @@ mail1
 **60\. chinese-xinhua 中华新华字典数据库及api，包括常用歇后语、成语、词语和汉字** [github](https://github.com/pwxcoo/chinese-xinhua)
 
 **61\. 文档图谱自动生成** [github](https://github.com/liuhuanyong/TextGrapher)  
-TextGrapher - Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示
+ - TextGrapher - Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示
 
 **62\. SpaCy 中文模型** [github](https://github.com/howl-anderson/Chinese_models_for_SpaCy)  
-包含Parser, NER, 语法树等功能
+ - 包含Parser, NER, 语法树等功能。有一些英文package使用spacy的英文模型的，如果要适配中文，可能需要使用spacy中文模型。
 
 **63\. Common Voice语音识别数据集新版**  [link](https://voice.mozilla.org/en/datasets)  
-包括来自42,000名贡献者超过1,400小时的语音样本，涵github
+ - 包括来自42,000名贡献者超过1,400小时的语音样本，涵github
 
 **64\. 神经网络关系抽取 pytorch**  [github](https://github.com/ShulinCao/OpenNRE-PyTorch)  
-暂不支持中文
+ - 暂不支持中文
 
 **65\. 基于bert的命名实体识别 pytorch**  [github](https://github.com/Kyubyong/bert_ner)  
-暂不支持中文
+ - 暂不支持中文
 
 **66\. 关键词(Keyphrase)抽取包 pke**  [github](https://github.com/boudinfl/pke)  
 [pke: an open source python-based keyphrase extraction toolkit](http://aclweb.org/anthology/C16-2015)  
-暂不支持中文，我于近期对其进行修改，使其适配中文。
-请关注我的github动态，谢谢！
+ - 暂不支持中文，我于近期对其进行修改，使其适配中文。
+请关注我的github动态，谢谢！  
+
+**67\. 基于医疗领域知识图谱的问答系统**  [github](https://github.com/zhihao-chen/QASystemOnMedicalGraph)  
+  - 该repo参考了[github](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
 
