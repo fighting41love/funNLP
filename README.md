@@ -515,3 +515,4 @@ mail1
   - 该repo参考了[github](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
 
+**68\. 基于依存句法与语义角色标注的事件三元组抽取**  [github](https://github.com/liuhuanyong/EventTriplesExtraction)  
