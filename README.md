@@ -3,7 +3,7 @@
 很多包非常有趣，值得收藏，满足大家的收集癖！
 如果觉得有用，请分享并star，谢谢！
 
-涉及内容包括：**中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke**。
+涉及内容包括：**中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包，自带了训练好的识别模型、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包**。
 
 **1\. textfilter: 中英文敏感词过滤**  [observerss/textfilter](https://github.com/observerss/textfilter)
 ```
@@ -257,7 +257,9 @@ publishTime: 该谣言被举报时间
 
 **36\. bert资源：**
 
-+ Bert原作者的slides: [link](https://pan.baidu.com/s/1OSPsIu2oh1iJ-bcXoDZpJQ)
+- bert论文中文翻译: [link](https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation)
+
++ bert原作者的slides: [link](https://pan.baidu.com/s/1OSPsIu2oh1iJ-bcXoDZpJQ)
    提取码: iarj 
 
 + 文本分类实践: [github](https://github.com/NLPScott/bert-Chinese-classification-task)
@@ -267,6 +269,7 @@ publishTime: 该谣言被举报时间
 + bert pytorch实现:  [github](https://github.com/huggingface/pytorch-pretrained-BERT)
 
 + bert用于中文命名实体识别 tensorflow版本: [github](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
++ BERT生成句向量，BERT做文本分类、文本相似度计算[github](https://github.com/terrifyzhao/bert-utils)
 
 + bert 基于 keras 的封装分类标注框架 Kashgari，几分钟即可搭建一个分类或者序列标注模型: [github](https://github.com/BrikerMan/Kashgari)
 
@@ -515,4 +518,49 @@ mail1
   - 该repo参考了[github](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
 
-**68\. 基于依存句法与语义角色标注的事件三元组抽取**  [github](https://github.com/liuhuanyong/EventTriplesExtraction)  
+**68\. 基于依存句法与语义角色标注的事件三元组抽取**  [github](https://github.com/liuhuanyong/EventTriplesExtraction) 
+
+**69\. 依存句法分析4万句高质量标注数据** by 苏州大学汉语依存树库（SUCDT）
+[Homepage](http://hlt.suda.edu.cn/index.php/Nlpcc-2019-shared-task)
+数据下载详见homepage底部，需要签署协议，需要邮件接收解压密码。
+
+**70\. cnocr：用来做中文OCR的Python3包，自带了训练好的识别模型** [github](https://github.com/breezedeus/cnocr)
+
+**71\. 中文人物关系知识图谱项目** [github](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph)
+- 中文人物关系图谱构建
+- 基于知识库的数据回标
+- 基于远程监督与bootstrapping方法的人物关系抽取
+- 基于知识图谱的知识问答等应用
+
+**72\. 中文nlp竞赛项目及代码汇总** [github](https://github.com/geekinglcq/CDCS)
+- 文本生成、文本摘要：Byte Cup 2018 国际机器学习竞赛
+- 知识图谱：瑞金医院MMC人工智能辅助构建知识图谱大赛
+- 视频识别 问答：2018之江杯全球人工智能大赛 ：视频识别&问答
+
+**73\. 中文字符数据** [github](https://github.com/skishore/makemeahanzi)
+- 简/繁体汉字笔顺
+- 矢量笔画
+
+**74\. speech-aligner: 从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具** [github](https://github.com/open-speech/speech-aligner)
+
+**75\. AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测** [github](https://github.com/Accenture/AmpliGraph) 
+- 埃森哲出品，目前尚不支持中文
+
+
+**76\. Scattertext 文本可视化(python)** [github](https://github.com/JasonKessler/scattertext)
+- 很好用的工具包，简单修改后可支持中文
+- 能否分析出某个类别的文本与其他文本的用词差异
+
+**77\. 语言/知识表示工具：BERT & ERNIE** [github](https://github.com/PaddlePaddle/LARK)
+- 百度出品，ERNIE也号称在多项nlp任务中击败了bert
+
+**78\. 中文对比英文自然语言处理NLP的区别综述** [link](https://mp.weixin.qq.com/s/LQU_HJ4q74lL5oCIk7w5RA)
+
+**79\. Synonyms中文近义词工具包** [github](https://github.com/huyingxi/Synonyms)
+- Synonyms 中文近义词工具包，可以用于自然语言理解的很多任务：文本对齐，推荐算法，相似度计算，语义偏移，关键字提取，概念提取，自动摘要，搜索引擎等
+
+
+
+
+
+基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包，自带了训练好的识别模型、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包
