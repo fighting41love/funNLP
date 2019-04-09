@@ -215,7 +215,7 @@ Hi，all。下周一下午三点开会
 
 **29\. 古诗词库：** [github repo](https://github.com/panhaiqi/AncientPoetry) [更全的古诗词库](https://github.com/chinese-poetry/chinese-poetry)
 
-**30\. THU整理的词库：** [link](http://thuocl.thunlp.org/sendMessage)
+**30\. THU整理的词库：** [link](http://thuocl.thunlp.org/)
 
 已整理到本repo的data文件夹中.
 ```
