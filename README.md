@@ -3,7 +3,7 @@
 很多包非常有趣，值得收藏，满足大家的收集癖！
 如果觉得有用，请分享并star，谢谢！
 
-涉及内容包括：**中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库**。
+涉及内容包括：**中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战**。
 
 **1\. textfilter: 中英文敏感词过滤**  [observerss/textfilter](https://github.com/observerss/textfilter)
 ```
@@ -565,3 +565,37 @@ mail1
 
 **82\. 语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库** [github](https://github.com/yc9701/pansori)
 
+**83\. ASR语音大辞典/词典：** [github](hhttps://github.com/aishell-foundation/DaCiDian)
+
+**84\. 构建医疗实体识别的模型，包含词典和语料标注，基于python:** [github](https://github.com/yixiu00001/LSTM-CRF-medical)
+
+**85\. 单文档非监督的关键词抽取：** [github](https://github.com/LIAAD/yake)
+
+**86\. Kashgari中使用gpt-2语言模型** [github](https://github.com/BrikerMan/Kashgari)
+
+**87\.  开源的金融投资数据提取工具** [github](https://github.com/PKUJohnson/OpenData)
+
+**88\. 文本自动摘要库TextTeaser: 仅支持英文** [github](https://github.com/IndigoResearch/textteaser)
+
+**89\. 人民日报语料处理工具集** [github](https://github.com/howl-anderson/tools_for_corpus_of_people_daily)
+
+**90\. 一些关于自然语言的基本模型** [github](https://github.com/lpty/nlp_base)
+
+**91\. 基于14W歌曲知识库的问答尝试，功能包括歌词接龙，已知歌词找歌曲以及歌曲歌手歌词三角关系的问答** [github](https://github.com/liuhuanyong/MusicLyricChatbot)
+
+**92\. 基于Siamese bilstm模型的相似句子判定模型,提供训练数据集和测试数据集** [github](https://github.com/liuhuanyong/SiameseSentenceSimilarity)
+- 提供了10万个训练样本
+
+**93\. 用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论** [github](https://github.com/leod/hncynic)
+
+**94\. 用BERT进行序列标记和文本分类的模板代码** [github](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification)
+
+**95\. LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料** [github](https://github.com/dbamman/litbank)
+
+**96\. 百度开源的基准信息抽取系统** [github](https://github.com/baidu/information-extraction)
+
+**97\. 虚假新闻数据集 fake news corpus** [github](https://github.com/several27/FakeNewsCorpus)
+
+**98\. Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口** [github](https://github.com/facebookresearch/LAMA)
+
+**99\. CommonsenseQA：面向常识的英文QA挑战** [link](https://www.tau-nlp.org/commonsenseqa)
