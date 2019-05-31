@@ -599,3 +599,6 @@ mail1
 **98\. Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口** [github](https://github.com/facebookresearch/LAMA)
 
 **99\. CommonsenseQA：面向常识的英文QA挑战** [link](https://www.tau-nlp.org/commonsenseqa)
+
+**100\. Enterprise-Registration-Data-of-Chinese-Mainland：中国大陆31个省份1949年至2019年一千多万工商企业注册信息** [link](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
+
