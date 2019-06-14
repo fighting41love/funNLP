@@ -600,6 +600,7 @@ mail1
 
 **99\. CommonsenseQA：面向常识的英文QA挑战** [link](https://www.tau-nlp.org/commonsenseqa)
 
+<<<<<<< HEAD
 **100\. 中文知识图谱资料、数据及工具** [github](https://github.com/husthuke/awesome-knowledge-graph)
 
 **101\. 各大公司内部里大牛分享的技术文档 PDF 或者 PPT** [github](https://github.com/0voice/from_coder_to_expert)
@@ -637,4 +638,6 @@ mail1
 
 
 
+=======
+>>>>>>> 4f0c5ae77eccd6d4388fe8f1596775f8ef53c8a6
 
