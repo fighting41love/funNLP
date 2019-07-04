@@ -661,3 +661,13 @@ mail1
 
 **124\. 基于TensorFlow和BERT的管道式实体及关系抽取** [github](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
   - Entity and Relation Extraction Based on TensorFlow and BERT. 基于TensorFlow和BERT的管道式实体及关系抽取，2019语言与智能技术竞赛信息抽取任务解决方案。Schema based Knowledge Extraction, SKE 2019
+
+**125\. 一个小型的证券知识图谱/知识库** [github](https://github.com/lemonhu/stock-knowledge-graph)
+
+**126\. 复盘所有NLP比赛的TOP方案** [github](https://github.com/zhpmatrix/nlp-competitions-list-review)
+ 
+**127\. OpenCLaP：多领域开源中文预训练语言模型仓库** [github](https://github.com/thunlp/OpenCLaP)
+包含如下语言模型及百度百科数据
+- 民事文书BERT	bert-base	全部民事文书	2654万篇文书	22554词	370MB	
+- 刑事文书BERT	bert-base	全部刑事文书	663万篇文书	22554词	370MB	
+- 百度百科BERT	bert-base	百度百科	903万篇词条	22166词	367MB	
