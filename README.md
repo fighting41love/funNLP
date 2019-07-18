@@ -687,5 +687,6 @@ mail1
 
 **133\. 诗歌质量评价/细粒度情感诗歌语料库** [github](https://github.com/THUNLP-AIPoet/Datasets)
 
-
-
+**134\. 快速转化「中文数字」和「阿拉伯数字」** [github](https://github.com/HaveTwoBrush/cn2an)
+- 中文、阿拉伯数字互转
+- 中文与阿拉伯数字混合的情况，在开发中
