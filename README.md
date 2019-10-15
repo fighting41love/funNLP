@@ -747,8 +747,50 @@ mail1
 
 **159\. MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目** [github](百度知道问答语料库，包括超过580万的问题，每个问题带有问题标签。基于该问答语料库，可支持多种应用，如逻辑挖掘)
 
+**160\. brat rapid annotation tool: 序列标注工具** [link](http://brat.nlplab.org/index.html)
+
+**161\. 大规模中文知识图谱数据：：1.4亿实体** [github](https://github.com/ownthink/KnowledgeGraphData)
+
+**162\. 数据增强在机器翻译及其他nlp任务中的应用及效果** [link](https://mp.weixin.qq.com/s/_aVwSWuYho_7MUT0LuFgVA)
+
+**163\. allennlp阅读理解:支持多种数据和模型** [github](https://github.com/allenai/allennlp-reading-comprehension)
+
+**164\. PDF表格数据提取工具** [github](https://github.com/camelot-dev/camelot)
+
+**165\. Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断** [github](https://github.com/graphbrain/graphbrain)
+
+**166\. 简历自动筛选系统** [github](https://github.com/JAIJANYANI/Automated-Resume-Screening-System)
+
+**167\. 基于命名实体识别的简历自动摘要** [github](https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy)
+
+**168\. 中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜** [github](https://github.com/brightmart/ChineseGLUE)
+
+**169\. 树洞 OCR 文字识别** [github](https://github.com/AnyListen/tools-ocr)
+- 一个c++ OCR [github](https://github.com/myhub/tr)
+- 
+**170\. 从包含表格的扫描图片中识别表格和文字** [github](https://github.com/bitdata/ocrtable)
+
+**171\. 语声迁移** [github](https://github.com/fighting41love/become-yukarin)
+
+**172\. Python口语自然语言处理工具集(英文)** [github](https://github.com/gooofy/py-nltools)
+
+**173\. similarity：相似度计算工具包，java编写** [github](https://github.com/shibing624/similarity)
+- 用于词语、短语、句子、词法分析、情感分析、语义分析等相关的相似度计算
+
+**174\. 海量中文预训练ALBERT模型** [github](https://github.com/brightmart/albert_zh)
+
+**175\. Transformers 2.0** [github](https://github.com/huggingface/transformers)
+- 支持TensorFlow 2.0 和 PyTorch 的自然语言处理预训练语言模型(BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) 8种架构/33种预训练模型/102种语言
+
+**176\. 基于大规模音频数据集Audioset的音频增强** [github](https://github.com/AppleHolic/audioset_augmentor)
 
 
+**177\. Poplar：网页版自然语言标注工具** [github](https://github.com/synyi/poplar)
 
+**178\. 图片文字去除，可用于漫画翻译** [github](https://github.com/yu45020/Text_Segmentation_Image_Inpainting)
+
+**179\. 186种语言的数字叫法库** [github](https://github.com/google/UniNum)
+
+**180\. Amazon发布基于知识的人-人开放领域对话数据集** [github](https://github.com/alexa/alexa-prize-topical-chat-dataset/)
 
 
