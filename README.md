@@ -642,6 +642,7 @@ mail1
 
 
 **116\. 开放了对话机器人、知识图谱、语义理解、自然语言处理工具及数据** [github](https://www.ownthink.com/#header-n30)
+- 另一个qa对的机器人 [Amodel-for-Retrivalchatbot - 客服机器人，Chinese Retreival chatbot（中文检索式机器人）](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot)
 
 **117\. 中文知识图谱：基于百度百科中文页面，抽取三元组信息，构建中文知识图谱** [github](https://github.com/lixiang0/WEB_KG)
 
@@ -792,5 +793,16 @@ mail1
 **179\. 186种语言的数字叫法库** [github](https://github.com/google/UniNum)
 
 **180\. Amazon发布基于知识的人-人开放领域对话数据集** [github](https://github.com/alexa/alexa-prize-topical-chat-dataset/)
+
+**181\. 中文文本纠错模块代码** [github](https://github.com/zedom1/error-detection)
+
+**182\. 繁简体转换** [github](https://github.com/berniey/hanziconv)
+
+**183\. Python实现的多种文本可读性评价指标** [github](https://github.com/cdimascio/py-readability-metrics)
+
+**184\. 类似于人名/地名/组织机构名的命名体识别数据集** [github](https://github.com/LG-1/video_music_book_datasets)
+
+**185\. 东南大学《知识图谱》研究生课程(资料)** [github](https://github.com/npubird/KnowledgeGraphCourse)
+
 
 
