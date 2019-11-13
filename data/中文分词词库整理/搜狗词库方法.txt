@@ -1,2 +1,2 @@
-搜狗词库: http://pinyin.sogou.com/dict/list.php
-可以直接访问地址: http://pinyin.sogou.com/dict/download_txt.php?id=词库id 
+鎼滅嫍璇嶅簱: http://pinyin.sogou.com/dict/list.php
+鍙互鐩存帴璁块棶鍦板潃: http://pinyin.sogou.com/dict/download_txt.php?id=璇嶅簱id 
