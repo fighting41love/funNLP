@@ -804,5 +804,36 @@ mail1
 
 **185\. 东南大学《知识图谱》研究生课程(资料)** [github](https://github.com/npubird/KnowledgeGraphCourse)
 
+**186\. 英文拼写检查库** [github](https://github.com/barrust/pyspellchecker)
+
+```
+from spellchecker import SpellChecker
+
+spell = SpellChecker()
+
+# find those words that may be misspelled
+misspelled = spell.unknown(['something', 'is', 'hapenning', 'here'])
+
+for word in misspelled:
+    # Get the one `most likely` answer
+    print(spell.correction(word))
+
+    # Get a list of `likely` options
+    print(spell.candidates(word))
+```
+**187\. wwsearch是企业微信后台自研的全文检索引擎** [github](https://github.com/Tencent/wwsearch)
+
+**188\. CHAMELEON：深度学习新闻推荐系统元架构** [github](https://github.com/gabrielspmoreira/chameleon_recsys)
+
+**189\. 8篇论文梳理BERT相关模型进展与反思** [github](https://www.msra.cn/zh-cn/news/features/bert)
+
+**190\. DocSearch：免费文档搜索引擎** [github](https://github.com/algolia/docsearch)
+
+**191\. LIDA：轻量交互式对话标注工具** [github](https://github.com/Wluper/lida)
+
+**192\. aili - the fastest in-memory index in the East 东半球最快并发索引** [github](https://github.com/UncP/aili)
+
+
+
 
 
