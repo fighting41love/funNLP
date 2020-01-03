@@ -834,6 +834,72 @@ for word in misspelled:
 **192\. aili - the fastest in-memory index in the East 东半球最快并发索引** [github](https://github.com/UncP/aili)
 
 
+**193\. 知识图谱车音工作项目** [github](https://github.com/qiu997018209/KnowledgeGraph)
 
+**194\. 自然语言生成资源大全** [github](https://github.com/tokenmill/awesome-nlg)
+- 内含英文数据、论文、代码
+- 
+**195\. 中日韩分词库mecab的Python接口库** [github](https://github.com/jeongukjae/python-mecab)
 
+**196\. 中文文本摘要/关键词提取** [github](中文文本摘要/关键词提取)
+
+**197\. 汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征** [github](https://github.com/howl-anderson/hanzi_char_featurizer)
+
+**198\. 中文生成任务基准测评** [github](https://github.com/CLUEbenchmark/CLGE)
+
+**199\. 中文缩写数据集** [github](https://github.com/zhangyics/Chinese-abbreviation-dataset)
+
+**200\. 中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜** [github](https://github.com/CLUEbenchmark/CLUE)
+
+**201\. PySS3：面向可解释AI的SS3文本分类器机器可视化工具** [github](https://github.com/sergioburdisso/pyss3)
+
+**202\. 中文NLP数据集列表** [github](https://github.com/OYE93/Chinese-NLP-Corpus)
+
+**203\. COPE - 格律诗编辑程序** [github](https://github.com/LingDong-/cope)
+
+**204\. doccano：基于网页的开源协同多语言文本标注工具** [github](https://github.com/doccano/doccano)
+
+**205\. PreNLP：自然语言预处理库** [github](https://github.com/lyeoni/prenlp)
+
+**206\. 简单的简历解析器，用来从简历中提取关键信息** [github](https://github.com/OmkarPathak/pyresparser)
+
+**207\. 用于中文闲聊的GPT2模型：GPT2-chitchat** [github](https://github.com/yangjianxin1/GPT2-chitchat)
+
+**208\. 基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)** [github](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)
+
+**209\. (Colab)抽象文本摘要实现集锦(教程** [github](https://github.com/theamrzaki/text_summurization_abstractive_methods)
+
+**210\. 词语拼音数据** [github](https://github.com/mozillazg/phrase-pinyin-data)
+
+**211\. 高效模糊搜索工具** [github](https://github.com/Yggdroot/LeaderF)
+
+**212\. NLP数据增广资源集** [github](https://github.com/quincyliang/nlp-data-augmentation)
+
+**213\. 微软对话机器人框架** [github](https://github.com/microsoft/botframework)
+
+**214\. GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集** [github](https://github.com/mhagiwara/github-typo-corpus)
+
+**215\. TextCluster：短文本聚类预处理模块 Short text cluster** [github](https://github.com/RandyPen/TextCluster)
+
+**216\. 面向语音识别的中文文本规范化** [github](https://github.com/speech-io/chinese_text_normalization)
+
+**217\. BLINK：最先进的实体链接库** [github](https://github.com/facebookresearch/BLINK)
+
+**218\. BertPunc：基于BERT的最先进标点修复模型** [github](https://github.com/nkrnrnk/BertPunc)
+
+**219\. Tokenizer：快速、可定制的文本词条化库** [github](https://github.com/OpenNMT/Tokenizer)
+
+**220\. 中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜** [github](https://github.com/CLUEbenchmark/CLUE)
+
+**221\. spaCy 医学文本挖掘与信息提取** [github](https://github.com/NLPatVCU/medaCy)
+
+**222\. NLP任务示例项目代码集** [github](https://github.com/explosion/projects)
+
+**223\. python拼写检查库** [github](https://github.com/barrust/pyspellchecker)
+
+**224\. chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍** [github](https://github.com/lizhe2004/chatbot-list)
+
+**225\. 语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)** [github](https://github.com/aliutkus/speechmetrics)
+
+**226\. 用138GB语料训练的法文RoBERTa预训练语言模型** [link](https://camembert-model.fr/)
 
