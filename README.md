@@ -1,5 +1,5 @@
 <div align=center> 
-<img src="https://upload-images.jianshu.io/upload_images/2528310-9076923800135c44.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/180" width="">
+<img src="./data/.logo图片/img.jpg" width="180">
 </div>
 <center>The Most Powerful NLP-Weapon Arsenal</center>
 
