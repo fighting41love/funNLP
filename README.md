@@ -1,9 +1,17 @@
-<div align=center> 
-<img src="./data/.logo图片/img.jpg" width="180">
-</div>
-<center>The Most Powerful NLP-Weapon Arsenal</center>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./data/.logo图片/img.jpg"width="180">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">NLP民工的乐园</div>
+</center>
 
-## 几乎最全的中文NLP资源库
+### The Most Powerful NLP-Weapon Arsenal
+
+## NLP民工的乐园: 几乎最全的中文NLP资源库
 - 词库
 - 工具包
 - 学习资料
@@ -919,7 +927,7 @@ for word in misspelled:
 
 **227\. BERT-NER-Pytorch：三种不同模式的BERT中文NER实验** [github](https://github.com/lonePatient/BERT-NER-Pytorch)
 
-**228\. '无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询** [github](https://github.com/ChestnutHeng/Wudao-dict)
+**228\. 无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询** [github](https://github.com/ChestnutHeng/Wudao-dict)
 
 **229\. 2019年NLP亮点回顾** [download](https://pan.baidu.com/s/1h5gEPUhvY1HkUVc32eeX4w)
 - 提取码: yb6x 
