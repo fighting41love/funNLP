@@ -10,7 +10,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 9	色情		暴乳
 10	色情		爆乳
 11	色情		暴淫
-12	色情		�
+12	色情		屄
 13	色情		被操
 14	色情		被插
 15	色情		被干
@@ -20,8 +20,8 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 19	色情		操逼
 20	色情		操黑
 21	色情		操烂
-22	色情		�H你
-23	色情		�H死
+22	色情		肏你
+23	色情		肏死
 24	色情		操死
 25	色情		操我
 26	色情		厕奴
@@ -106,7 +106,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 105	色情		金麟岂是池中物
 106	色情		精液
 107	色情		就去日
-108	色情		巨�
+108	色情		巨屌
 109	色情		菊花洞
 110	色情		菊门
 111	色情		巨奶
@@ -163,7 +163,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 162	色情		捏弄
 163	色情		女优
 164	色情		炮友
-165	色情		�h友
+165	色情		砲友
 166	色情		喷精
 167	色情		屁眼
 168	色情		品香堂
@@ -449,7 +449,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 448	色情		处男
 449	色情		猛男
 450	色情		少妇
-451	色情		�
+451	色情		屌
 452	色情		屁股
 453	色情		下体
 454	色情		a片
@@ -494,20 +494,20 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 493	色情		妹按摩
 494	色情		妹上门
 495	色情		迷幻药
-496	色情		迷幻�
+496	色情		迷幻藥
 497	色情		迷昏口
 498	色情		迷昏药
-499	色情		迷昏�
+499	色情		迷昏藥
 500	色情		迷魂香
 501	色情		迷魂药
-502	色情		迷魂�
+502	色情		迷魂藥
 503	色情		迷奸粉
 504	色情		迷奸药
 505	色情		迷情粉
 506	色情		迷情水
 507	色情		迷情药
 508	色情		迷药
-509	色情		迷�
+509	色情		迷藥
 510	色情		谜奸药
 511	色情		骚妇
 512	色情		骚货
@@ -548,9 +548,9 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 547	色情		阴茎增大
 548	色情		阴茎助勃
 549	色情		阴毛
-550	色情		�唇
-551	色情		�道
-552	色情		��
+550	色情		陰唇
+551	色情		陰道
+552	色情		陰戶
 553	色情		淫荡
 554	色情		淫荡美女
 555	色情		淫荡视频
@@ -562,7 +562,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 561	色情		淫女
 562	色情		淫情女
 563	色情		淫肉
-564	色情		淫�}妹
+564	色情		淫騷妹
 565	色情		淫兽
 566	色情		淫兽学
 567	色情		淫水
@@ -585,7 +585,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 584	色情		暴乳
 585	色情		爆乳
 586	色情		暴淫
-587	色情		�
+587	色情		屄
 588	色情		被操
 589	色情		被插
 590	色情		被干
@@ -595,8 +595,8 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 594	色情		操逼
 595	色情		操黑
 596	色情		操烂
-597	色情		�H你
-598	色情		�H死
+597	色情		肏你
+598	色情		肏死
 599	色情		操死
 600	色情		操我
 601	色情		厕奴
@@ -668,7 +668,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 667	色情		金麟岂是池中物
 668	色情		精液
 669	色情		就去日
-670	色情		巨�
+670	色情		巨屌
 671	色情		菊花洞
 672	色情		菊门
 673	色情		巨奶
@@ -725,7 +725,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 724	色情		捏弄
 725	色情		女优
 726	色情		炮友
-727	色情		�h友
+727	色情		砲友
 728	色情		喷精
 729	色情		屁眼
 730	色情		品香堂
@@ -942,7 +942,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 941	反动		打倒罗干
 942	反动		打倒温家宝
 943	反动		打倒中共
-944	反动		打倒朱�F
+944	反动		打倒朱镕
 945	反动		抵制共产党
 946	反动		抵制共产主义
 947	反动		抵制胡锦涛
@@ -952,7 +952,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 951	反动		抵制罗干
 952	反动		抵制温家宝
 953	反动		抵制中共
-954	反动		抵制朱�F基
+954	反动		抵制朱镕基
 955	反动		灭亡中国
 956	反动		亡党亡国
 957	反动		粉碎四人帮
@@ -1005,7 +1005,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 1004	反动		焦国标
 1005	反动		万润南
 1006	反动		张志新
-1007	反动		辛��
+1007	反动		辛灝年
 1008	反动		高勤荣
 1009	反动		王炳章
 1010	反动		高智晟
@@ -1374,7 +1374,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 1373	反动		西藏
 1374	反动		藏西
 1375	反动		藏春阁
-1376	反动		藏�
+1376	反动		藏獨
 1377	反动		藏独
 1378	反动		藏独立
 1379	反动		藏妇会
@@ -1451,9 +1451,9 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 1450	反动		麻醉弹
 1451	反动		麻醉狗
 1452	反动		麻醉枪
-1453	反动		麻醉
+1453	反动		麻醉槍
 1454	反动		麻醉药
-1455	反动		麻醉�
+1455	反动		麻醉藥
 1456	反动		台独
 1457	反动		台湾版假币
 1458	反动		台湾独立
@@ -1883,10 +1883,10 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 1882	民生		代办文
 1883	民生		代办学
 1884	民生		代办制
-1885	民生		代�k
+1885	民生		代辦
 1886	民生		代表烦
 1887	民生		代开发票
-1888	民生		代�_
+1888	民生		代開
 1889	民生		代考
 1890	民生		代理发票
 1891	民生		代理票据
@@ -2141,10 +2141,10 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2140	民生		法正
 2141	民生		法谪
 2142	民生		法谪功
-2143	民生		法�
+2143	民生		法輪
 2144	民生		法囵
 2145	民生		法愣
-2146	民生		珐.�功
+2146	民生		珐.輪功
 2147	民生		珐抡
 2148	民生		珐轮
 2149	民生		珐伦
@@ -2163,7 +2163,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2162	民生		垡纶
 2163	民生		垡论
 2164	民生		垡囵
-2165	民生		茳擅�
+2165	民生		茳澤民
 2166	民生		荭志
 2167	民生		闳志
 2168	民生		闵维方
@@ -2503,7 +2503,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2502	其他		爱国运动正名
 2503	其他		爱国者同盟网站
 2504	其他		爱液横流
-2505	其他		安眠�
+2505	其他		安眠藥
 2506	其他		案的准确
 2507	其他		暗访包
 2508	其他		八九民
@@ -2533,8 +2533,8 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2532	其他		办怔
 2533	其他		办证
 2534	其他		半刺刀
-2535	其他		�k毕业
-2536	其他		�k�C
+2535	其他		辦毕业
+2536	其他		辦證
 2537	其他		帮人怀孕
 2538	其他		谤罪获刑
 2539	其他		磅解码器
@@ -2639,7 +2639,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2638	其他		催眠水
 2639	其他		催情粉
 2640	其他		催情药
-2641	其他		催情�
+2641	其他		催情藥
 2642	其他		挫仑
 2643	其他		达毕业证
 2644	其他		达赖
@@ -2653,7 +2653,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2652	其他		大法轮
 2653	其他		大法修炼者
 2654	其他		大鸡巴
-2655	其他		大�u巴
+2655	其他		大雞巴
 2656	其他		大纪元
 2657	其他		大妓院
 2658	其他		大揭露
@@ -2695,7 +2695,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2694	其他		得财兼
 2695	其他		的同修
 2696	其他		灯草和
-2697	其他		等级�C
+2697	其他		等级證
 2698	其他		等人老百
 2699	其他		等人是老
 2700	其他		等人手术
@@ -2719,7 +2719,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2718	其他		"颠覆,胡锦涛"
 2719	其他		"颠覆,温家宝"
 2720	其他		"颠覆,中共"
-2721	其他		"颠覆,朱�F基"
+2721	其他		"颠覆,朱镕基"
 2722	其他		点金商务
 2723	其他		点数优惠
 2724	其他		电子狗导航手机
@@ -2736,7 +2736,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2735	其他		东京热
 2736	其他		东突
 2737	其他		东伊运
-2738	其他		|京�
+2738	其他		東京熱
 2739	其他		董元辰
 2740	其他		洞小口紧
 2741	其他		都当警
@@ -2761,7 +2761,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2760	其他		多美康
 2761	其他		躲猫猫
 2762	其他		俄罗斯轮盘
-2763	其他		俄�_斯
+2763	其他		俄羅斯
 2764	其他		恶党
 2765	其他		恶搞人民币
 2766	其他		恶警
@@ -2785,7 +2785,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2784	其他		发票销
 2785	其他		发贴工具
 2786	其他		发贴机
-2787	其他		�l票
+2787	其他		發票
 2788	其他		法0功
 2789	其他		法O功
 2790	其他		法车仑
@@ -2833,8 +2833,8 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2832	其他		佛同修
 2833	其他		夫妻交换
 2834	其他		福尔马林
-2835	其他		福娃的�A
-2836	其他		福娃�^上
+2835	其他		福娃的預
+2836	其他		福娃頭上
 2837	其他		福香巴
 2838	其他		府包庇
 2839	其他		府集中领
@@ -2851,12 +2851,12 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2850	其他		冈本真
 2851	其他		肛交
 2852	其他		肛门是邻
-2853	其他		�菊�
+2853	其他		岡本真
 2854	其他		钢针狗
 2855	其他		钢珠枪
 2856	其他		港澳博球
-2857	其他		港�R™
-2858	其他		港鑫�A
+2857	其他		港馬會
+2858	其他		港鑫華
 2859	其他		高就在政
 2860	其他		"高考,答案"
 2861	其他		高考黑
@@ -2915,7 +2915,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2914	其他		国统纲领
 2915	其他		国统会
 2916	其他		国一九五七
-2917	其他		�让�
+2917	其他		國內美
 2918	其他		哈狗帮
 2919	其他		哈药直销
 2920	其他		海访民
@@ -2935,7 +2935,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2934	其他		"红外,透视"
 2935	其他		红外透视
 2936	其他		洪志
-2937	其他		�t色恐
+2937	其他		紅色恐
 2938	其他		胡的接班人
 2939	其他		胡江风云
 2940	其他		胡江关系
@@ -2945,7 +2945,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 2944	其他		胡紧掏
 2945	其他		胡紧套
 2946	其他		"胡锦涛,腐败"
-2947	其他		胡�\©
+2947	其他		胡錦濤
 2948	其他		胡进涛
 2949	其他		胡派军委
 2950	其他		胡派人马
@@ -3015,7 +3015,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3014	其他		集体腐
 3015	其他		集体抗议
 3016	其他		挤乳汁
-3017	其他		D乳汁
+3017	其他		擠乳汁
 3018	其他		记号扑克
 3019	其他		纪念达赖喇嘛流亡49周年
 3020	其他		纪念文革
@@ -3045,7 +3045,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3044	其他		贱货
 3045	其他		贱人
 3046	其他		江z民
-3047	其他		疆�
+3047	其他		疆獨
 3048	其他		疆独
 3049	其他		讲法传功
 3050	其他		蒋彦永
@@ -3114,8 +3114,8 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3113	其他		"开平,受辱"
 3114	其他		开锁工具
 3115	其他		开天目
-3116	其他		�_�a
-3117	其他		�_票
+3116	其他		開碼
+3117	其他		開票
 3118	其他		砍杀幼
 3119	其他		砍伤儿
 3120	其他		看JJ
@@ -3176,7 +3176,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3175	其他		利他林
 3176	其他		连发手
 3177	其他		联盟党
-3178	其他		��M�
+3178	其他		聯繫電
 3179	其他		练功群众
 3180	其他		炼大法
 3181	其他		两岸才子
@@ -3254,7 +3254,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3253	其他		门按摩
 3254	其他		门保健
 3255	其他		门徒会
-3256	其他		�T服�
+3256	其他		門服務
 3257	其他		氓培训
 3258	其他		蒙古回归
 3259	其他		蒙汗药
@@ -3288,7 +3288,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3287	其他		母子乱伦
 3288	其他		木齐针
 3289	其他		幕没有不
-3290	其他		幕前�
+3290	其他		幕前戲
 3291	其他		内射
 3292	其他		内争人权
 3293	其他		男妓
@@ -3317,7 +3317,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3316	其他		女神教
 3317	其他		女士服务
 3318	其他		女伟哥
-3319	其他		女
+3319	其他		女優
 3320	其他		鸥之歌
 3321	其他		"拍肩,药"
 3322	其他		拍肩神
@@ -3355,7 +3355,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3354	其他		汽车走表器
 3355	其他		汽狗
 3356	其他		汽枪
-3357	其他		�
+3357	其他		氣槍
 3358	其他		器官贩卖
 3359	其他		千禧弘法
 3360	其他		铅弹
@@ -3379,7 +3379,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3378	其他		氢弹手
 3379	其他		清场内幕
 3380	其他		清除负面
-3381	其他		清��
+3381	其他		清純壆
 3382	其他		清官团
 3383	其他		清海师父
 3384	其他		清海无上师
@@ -3622,7 +3622,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3621	其他		同盟党
 3622	其他		统一教
 3623	其他		统治术
-3624	其他		偷�器
+3624	其他		偷電器
 3625	其他		"偷啪,dv"
 3626	其他		偷肃贪
 3627	其他		偷听器
@@ -3678,7 +3678,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3677	其他		温切斯特
 3678	其他		温休曾退
 3679	其他		温影帝
-3680	其他		丶�
+3680	其他		溫家寶
 3681	其他		瘟加饱
 3682	其他		瘟家宝
 3683	其他		瘟假饱
@@ -3701,7 +3701,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3700	其他		无人性的政权
 3701	其他		无网界
 3702	其他		"无线,监听"
-3703	其他		吾 �_希
+3703	其他		吾爾開希
 3704	其他		五套功
 3705	其他		五月天
 3706	其他		午夜电
@@ -3785,7 +3785,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3784	其他		徐玉元
 3785	其他		学骚乱
 3786	其他		学生领袖
-3787	其他		学位�C
+3787	其他		学位證
 3788	其他		血溅人民天堂
 3789	其他		血染的风采
 3790	其他		血色京机
@@ -3994,7 +3994,7 @@ T_BASE_SENSITIVEWORDS_ID	SENSITIVETYPE	SENSITIVETOPIC	SENSITIVEWORDS
 3993	其他		州三箭
 3994	其他		宙最高法
 3995	其他		昼将近
-3996	其他		"朱�F基,腐败"
+3996	其他		"朱镕基,腐败"
 3997	其他		主神教
 3998	其他		主席忏
 3999	其他		属灵教
