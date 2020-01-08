@@ -1,7 +1,7 @@
 <div align=center> 
-<img src="https://upload-images.jianshu.io/upload_images/2528310-ead39c59cf4a4d5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/180" width="">
-<center>几乎最全的中文NLP资源库</center>
+<img src="https://upload-images.jianshu.io/upload_images/2528310-9076923800135c44.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/180" width="">
 </div>
+<center>The Most Powerful NLP-Weapon Arsenal</center>
 
 ## 几乎最全的中文NLP资源库
 - 词库
