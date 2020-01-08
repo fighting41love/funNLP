@@ -932,3 +932,6 @@ for word in misspelled:
 **229\. 2019年NLP亮点回顾** [download](https://pan.baidu.com/s/1h5gEPUhvY1HkUVc32eeX4w)
 - 提取码: yb6x 
 
+**230\. Chinese medical dialogue data 中文医疗对话数据集** [github](https://github.com/Toyhom/Chinese-medical-dialogue-data)
+
+**231\. 最好的汉字数字(中文数字)-阿拉伯数字转换工具** [github](https://github.com/Wall-ee/chinese2digits)
