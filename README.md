@@ -935,3 +935,20 @@ for word in misspelled:
 **230\. Chinese medical dialogue data 中文医疗对话数据集** [github](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 
 **231\. 最好的汉字数字(中文数字)-阿拉伯数字转换工具** [github](https://github.com/Wall-ee/chinese2digits)
+
+**232\. 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧** [github](https://github.com/liuhuanyong/WordMultiSenseDisambiguation)
+
+**233\. awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取** [github](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
+
+**234\. LineFlow：面向所有深度学习框架的NLP数据高效加载器** [github](https://github.com/tofunlp/lineflow)
+
+**235\. 中文医学NLP公开资源整理** [github](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
+
+**236\. MedQuAD：(英文)医学问答数据集** [github](https://github.com/abachaa/MedQuAD)
+
+**237\. 将自然语言数字串解析转换为整数和浮点数** [github](https://github.com/jaidevd/numerizer)
+
+**238\. Transfer Learning in Natural Language Processing (NLP)** [youtube](https://www.youtube.com/watch?v=ly0TRNr7I_M)
+
+**239\. 面向语音识别的中文/英文发音辞典** [github](https://github.com/speech-io/BigCiDian)
+
