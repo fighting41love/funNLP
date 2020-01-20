@@ -952,3 +952,13 @@ for word in misspelled:
 
 **239\. 面向语音识别的中文/英文发音辞典** [github](https://github.com/speech-io/BigCiDian)
 
+**240\. Tokenizers：注重性能与多功能性的最先进分词器** [github](https://github.com/huggingface/tokenizers)
+
+**241\. CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition** [github](https://github.com/CLUEbenchmark/CLUENER2020)
+
+**242\. 基于BERT的中文命名实体识别** [github](https://github.com/lonePatient/BERT-NER-Pytorch)
+
+
+
+
+
