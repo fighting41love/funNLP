@@ -958,6 +958,23 @@ for word in misspelled:
 
 **242\. 基于BERT的中文命名实体识别** [github](https://github.com/lonePatient/BERT-NER-Pytorch)
 
+**243\. 中文谣言数据库** [github](https://github.com/thunlp/Chinese_Rumor_Dataset)
+
+**244\. NLP数据集/基准任务大列表** [github](https://quantumstat.com/dataset/dataset.html)
+
+- 大多数为英文数据
+
+**245\. nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow** [github](https://github.com/msgi/nlp-journey)
+
+**246\. Python文本挖掘/NLP实战示例** [github](https://github.com/kavgan/nlp-in-practice)
+
+**247\. Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型** [github](https://github.com/ICLRandD/Blackstone)
+
+**248\. 通过同义词替换实现文本“变脸”** [github](https://github.com/paubric/python-sirajnet)
+
+**249\. 中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model** [github](https://github.com/CLUEbenchmark/ELECTRA)
+
+
 
 
 
