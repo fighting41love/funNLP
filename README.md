@@ -975,7 +975,19 @@ for word in misspelled:
 **249\. 中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model** [github](https://github.com/CLUEbenchmark/ELECTRA)
 
 
+**250\. albert-chinese-ner - 用预训练语言模型ALBERT做中文NER** [github](https://github.com/ProHiryu/albert-chinese-ner)
 
+**251\. 基于GPT2的特定主题文本生成/文本增广** [github](https://github.com/prakhar21/TextAugmentation-GPT2)
+
+**252\. 开源预训练语言模型合集** [github](https://github.com/ZhuiyiTechnology/pretrained-models)
+
+**253\. 多语言句向量包** [github](https://github.com/yannvgn/laserembeddings)
+
+**254\. 编码、标记和实现：一种可控高效的文本生成方法** [github](https://github.com/yannvgn/laserembeddings)
+
+**255\. 英文脏话大列表** [github](https://github.com/zacanger/profane-words)
+
+**256\. attnvis：GPT2、BERT等transformer语言模型注意力交互可视化** [github](https://github.com/SIDN-IAP/attnvis)
 
 
 
