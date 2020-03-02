@@ -989,5 +989,33 @@ for word in misspelled:
 
 **256\. attnvis：GPT2、BERT等transformer语言模型注意力交互可视化** [github](https://github.com/SIDN-IAP/attnvis)
 
+**257\. CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文** [github](https://github.com/facebookresearch/covost)
+
+**258\. Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能** [github](https://github.com/ownthink/Jiagu)
+
+**259\. 用unet实现对文档表格的自动检测，表格重建** [github](https://github.com/chineseocr/table-ocr)
+
+**260\. NLP事件提取文献资源列表** [github](https://github.com/BaptisteBlouin/EventExtractionPapers)
+
+**261\. 金融领域自然语言处理研究资源大列表** [github](https://github.com/icoxfog417/awesome-financial-nlp)
+
+**262\. CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集** [github](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
+
+**263\. medical_NER - 中文医学知识图谱命名实体识别** [github](https://github.com/pumpkinduo/KnowledgeGraph_NER)
+
+**264\. (哈佛)讲因果推理的免费书** [pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/10/ci_hernanrobins_23oct19.pdf)
+
+**265\. 知识图谱相关学习资料/数据集/工具资源大列表** [github](https://github.com/totogo/awesome-knowledge-graph)
+
+**266\. Forte：灵活强大的自然语言处理pipeline工具集** [github](https://github.com/asyml/forte)
+
+**267\. Python字符串相似性算法库** [github](https://github.com/luozhouyang/python-string-similarity)
+
+**268\. PyLaia：面向手写文档分析的深度学习工具包** [github](https://github.com/jpuigcerver/PyLaia)
+
+**269\. TextFooler：针对文本分类/推理的对抗文本生成模块** [github](https://github.com/jind11/TextFooler)
+
+**270\. Haystack：灵活、强大的可扩展问答(QA)框架** [github](https://github.com/deepset-ai/haystack)
 
 
+**271\. 中文关键短语抽取工具** [github](https://github.com/dongrixinyu/chinese_keyphrase_extractor)
