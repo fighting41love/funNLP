@@ -270,7 +270,7 @@ publishTime: 该谣言被举报时间
 本repo项目是一个通过与人对话获得其情感值波动图谱, 内用词库在data文件夹中.
 ```
 
-**34\. 百度中文问答数据集**：[链接](https://pan.baidu.com/s/1QUsKcFWZ7Tg1dk_AbldZ1A) 提取码: 2dva
+**34\. 中文问答数据集**：[链接](https://pan.baidu.com/s/1QUsKcFWZ7Tg1dk_AbldZ1A) 提取码: 2dva
 
 **35\. 句子、QA相似度匹配:MatchZoo**  [github](https://github.com/NTMC-Community/MatchZoo)
 
@@ -860,7 +860,7 @@ for word in misspelled:
 
 **194\. 自然语言生成资源大全** [github](https://github.com/tokenmill/awesome-nlg)
 - 内含英文数据、论文、代码
-- 
+  
 **195\. 中日韩分词库mecab的Python接口库** [github](https://github.com/jeongukjae/python-mecab)
 
 **196\. 中文文本摘要/关键词提取** [github](中文文本摘要/关键词提取)
@@ -1017,8 +1017,22 @@ for word in misspelled:
 
 **270\. Haystack：灵活、强大的可扩展问答(QA)框架** [github](https://github.com/deepset-ai/haystack)
 
-
 **271\. 中文关键短语抽取工具** [github](https://github.com/dongrixinyu/chinese_keyphrase_extractor)
 
-
-
+**272\. pdf文档解析相关工具包**
+- pdf生成
+  - [fdfgen](https://github.com/ccnmtl/fdfgen): 能够自动创建pdf文档，并填写信息
+- pdf表格解析
+  - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract): 用于OCR识别后的表格信息解析，很强大
+  - [tabula-py](https://github.com/chezou/tabula-py): 直接将pdf中的表格信息转换为pandas的dataframe，有java和python两种版本代码
+  - [pdfx](https://github.com/metachris/pdfx): 自动抽取出引用参考文献，并下载对应的pdf文件
+  - [invoice2data](https://github.com/invoice-x/invoice2data): 发票pdf信息抽取
+  - [camelot](https://github.com/atlanhq/camelot): pdf表格解析
+  - [pdfplumber](https://github.com/jsvine/pdfplumber): pdf表格解析
+- pdf语义分割
+  - [PubLayNet](https://go.ctolib.com/ibm-aur-nlp-PubLayNet.html):能够划分段落、识别表格、图片
+- pdf读取工具
+  - [PDFMiner](https://github.com/euske/pdfminer)：PDFMiner能获取页面中文本的准确位置，以及字体或行等其他信息。它还有一个PDF转换器，可以将PDF文件转换成其他文本格式(如HTML)。还有一个可扩展的解析器PDF，可以用于文本分析以外的其他用途。
+  - [PyPDF2](https://github.com/mstamy2/PyPDF2)：PyPDF 2是一个python PDF库，能够分割、合并、裁剪和转换PDF文件的页面。它还可以向PDF文件中添加自定义数据、查看选项和密码。它可以从PDF检索文本和元数据，还可以将整个文件合并在一起。
+  - [ReportLab](https://www.reportlab.com/opensource/)：ReportLab能快速创建PDF 文档。经过时间证明的、超好用的开源项目，用于创建复杂的、数据驱动的PDF文档和自定义矢量图形。它是免费的，开源的，用Python编写的。该软件包每月下载5万多次，是标准Linux发行版的一部分，嵌入到许多产品中，并被选中为Wikipedia的打印/导出功能提供动力。
+  
