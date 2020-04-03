@@ -177,7 +177,7 @@ say wo i ni
 ```
 **19\. 同义词库、反义词库、否定词库：**[guotong1988/chinese_dictionary](https://github.com/guotong1988/chinese_dictionary)
 
-**20\. 无空格英文串分割、抽取单词：**[wordinja](https://github.com/keredson/wordninja)
+**20\. 无空格英文串分割、抽取单词：**[wordninja](https://github.com/keredson/wordninja)
 ```
 >>> import wordninja
 >>> wordninja.split('derekanderson')
@@ -863,7 +863,7 @@ for word in misspelled:
   
 **195\. 中日韩分词库mecab的Python接口库** [github](https://github.com/jeongukjae/python-mecab)
 
-**196\. 中文文本摘要/关键词提取** [github](中文文本摘要/关键词提取)
+**196\. 中文文本摘要/关键词提取** [github](https://github.com/letiantian/TextRank4ZH)
 
 **197\. 汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征** [github](https://github.com/howl-anderson/hanzi_char_featurizer)
 
@@ -1036,3 +1036,11 @@ for word in misspelled:
   - [PyPDF2](https://github.com/mstamy2/PyPDF2)：PyPDF 2是一个python PDF库，能够分割、合并、裁剪和转换PDF文件的页面。它还可以向PDF文件中添加自定义数据、查看选项和密码。它可以从PDF检索文本和元数据，还可以将整个文件合并在一起。
   - [ReportLab](https://www.reportlab.com/opensource/)：ReportLab能快速创建PDF 文档。经过时间证明的、超好用的开源项目，用于创建复杂的、数据驱动的PDF文档和自定义矢量图形。它是免费的，开源的，用Python编写的。该软件包每月下载5万多次，是标准Linux发行版的一部分，嵌入到许多产品中，并被选中为Wikipedia的打印/导出功能提供动力。
   
+**273\. 中文词语相似度计算方法** [gihtub](https://github.com/yaleimeng/Final_word_Similarity)
+- 综合了同义词词林扩展版与知网（Hownet）的词语相似度计算方法，词汇覆盖更多、结果更准确。
+
+**274\. 人民日报语料库处理工具集** [github](https://github.com/howl-anderson/tools_for_corpus_of_people_daily)
+
+**275\. stanza:斯坦福团队NLP工具** [github](https://github.com/stanfordnlp/stanza)
+  - 可处理六十多种语言
+
