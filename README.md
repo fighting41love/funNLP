@@ -300,11 +300,11 @@ publishTime: 该谣言被举报时间
 
 **37. Texar - Toolkit for Text Generation and Beyond**: [github](https://github.com/asyml/texar)
 
-基于Tensorflow的开源工具包，旨在支持广泛的机器学习，特别是文本生成任务，如机器翻译、对话、摘要、内容处置、语言建模等
+- 基于Tensorflow的开源工具包，旨在支持广泛的机器学习，特别是文本生成任务，如机器翻译、对话、摘要、内容处置、语言建模等
 
 **38. 中文事件抽取：** [github](https://github.com/liuhuanyong/ComplexEventExtraction)
 
-中文复合事件抽取，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
+- 中文复合事件抽取，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
 
 **39\. cocoNLP:** [github](https://github.com/fighting41love/cocoNLP)
 
@@ -1044,3 +1044,29 @@ for word in misspelled:
 **275\. stanza:斯坦福团队NLP工具** [github](https://github.com/stanfordnlp/stanza)
   - 可处理六十多种语言
 
+**276\. 一个大规模医疗对话数据集** [github](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
+- 包含110万医学咨询，400万条医患对话
+
+**277\. 新冠肺炎相关数据** 
+- 新冠及其他类型肺炎中文医疗对话数据集 [github](https://github.com/UCSD-AI4H/COVID-Dialogue)
+- 清华大学等机构的开放数据源（COVID-19）[github](https://www.aminer.cn/data-covid19/)
+
+**278\. DGL-KE 图嵌入表示学习算法** [github](https://github.com/awslabs/dgl-ke)
+
+**279\. nlp-recipes：微软出品--自然语言处理最佳实践和范例** [github](https://github.com/microsoft/nlp-recipes)
+
+**280\. chinese_keyphrase_extractor (CKPE) - A tool for chinese keyphrase extraction 一个快速从自然语言文本中提取和识别关键短语的工具** [github](https://github.com/dongrixinyu/chinese_keyphrase_extractor)
+
+**281\. 使用GAN生成表格数据（仅支持英文）** [github](https://github.com/Diyago/GAN-for-tabular-data)
+
+**282\. Google发布Taskmaster-2自然语言任务对话数据集** [github](https://github.com/google-research-datasets/Taskmaster/tree/master/TM-2-2020)
+ 
+**283\. BDCI2019金融负面信息判定** [github](https://github.com/A-Rain/BDCI2019-Negative_Finance_Info_Judge)
+
+**284\. 用神经网络符号推理求解复杂数学方程** [github](https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/)
+
+**285\. 粤语/英语会话双语语料库** [github](https://github.com/khiajohnson/SpiCE-Corpus)
+
+**286\. 中文ELECTRA预训练模型** [github](https://github.com/ymcui/Chinese-ELECTRA)
+
+**287\. 面向深度学习研究人员的自然语言处理实例教程** [github](https://github.com/graykode/nlp-tutorial)
