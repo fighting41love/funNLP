@@ -1070,3 +1070,25 @@ for word in misspelled:
 **286\. 中文ELECTRA预训练模型** [github](https://github.com/ymcui/Chinese-ELECTRA)
 
 **287\. 面向深度学习研究人员的自然语言处理实例教程** [github](https://github.com/graykode/nlp-tutorial)
+
+**288\. Parakeet：基于PaddlePaddle的文本-语音合成** [github](https://github.com/PaddlePaddle/Parakeet)
+
+**289\. 103976个英语单词库（sql版，csv版，Excel版）包** [github](https://github.com/1eez/103976)
+
+**290\. 《海贼王》知识图谱** [github](https://github.com/mrbulb/ONEPIECE-KG)
+
+**291\. 法务智能文献资源列表** [github](https://github.com/thunlp/LegalPapers)
+
+**292\. Datasaur.ai 在线数据标注工作流管理工具** [link](https://datasaur.ai)
+
+**293\. (Java)准确的语音自然语言检测库** [github](https://github.com/pemistahl/lingua)
+
+**294\. 面向各语种/任务的BERT模型大列表/搜索引擎** [link](https://bertlang.unibocconi.it)
+
+**295\. CoVoST：Facebook发布的多语种语音-文本翻译语料库** [github](https://github.com/facebookresearch/covost)
+
+**296\. 基于预训练模型的中文关键词抽取方法** [github](https://github.com/sunyilgdx/SIFRank_zh)
+
+**297\. Fancy-NLP:用于建设商品画像的文本知识挖掘工具** [github](https://github.com/boat-group/fancy-nlp)
+
+**298\. 基于百度webqa与dureader数据集训练的Albert Large QA模型** [github](https://github.com/wptoux/albert-chinese-large-webqa/tree/master)
