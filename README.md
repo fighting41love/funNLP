@@ -391,6 +391,7 @@ time {"type": "timestamp", "timestamp": "2018-11-27 11:00:00"}
 - [自然语言生成：让机器掌握自动创作的本领 - 开放域对话生成及在微软小冰中的实践](https://drive.google.com/file/d/1Mdna3q986k6OoJNsfAHznTtnMAEVzv5z/view)  
 - [文本生成控制](https://github.com/harvardnlp/Talk-Latent/blob/master/main.pdf)  
 - [自然语言生成相关资源大列表](https://github.com/tokenmill/awesome-nlg)
+- [用BLEURT评价自然语言生成](https://ai.googleblog.com/2020/05/evaluating-natural-language-generation.html)
   
 **44\.:**
 [jieba](https://github.com/fxsjy/jieba)和[hanlp](https://github.com/hankcs/pyhanlp)就不必介绍了吧。
@@ -619,6 +620,7 @@ mail1
 **97\. 虚假新闻数据集 fake news corpus** [github](https://github.com/several27/FakeNewsCorpus)
 
 **98\. Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口** [github](https://github.com/facebookresearch/LAMA)
+- 用于分析预训练语言模型中包含的事实和常识知识的探针。
 
 **99\. CommonsenseQA：面向常识的英文QA挑战** [link](https://www.tau-nlp.org/commonsenseqa)
 
@@ -1029,12 +1031,14 @@ for word in misspelled:
   - [invoice2data](https://github.com/invoice-x/invoice2data): 发票pdf信息抽取
   - [camelot](https://github.com/atlanhq/camelot): pdf表格解析
   - [pdfplumber](https://github.com/jsvine/pdfplumber): pdf表格解析
+  - [pdf文档信息抽取](https://github.com/jstockwin/py-pdf-parser)
 - pdf语义分割
   - [PubLayNet](https://go.ctolib.com/ibm-aur-nlp-PubLayNet.html):能够划分段落、识别表格、图片
 - pdf读取工具
   - [PDFMiner](https://github.com/euske/pdfminer)：PDFMiner能获取页面中文本的准确位置，以及字体或行等其他信息。它还有一个PDF转换器，可以将PDF文件转换成其他文本格式(如HTML)。还有一个可扩展的解析器PDF，可以用于文本分析以外的其他用途。
   - [PyPDF2](https://github.com/mstamy2/PyPDF2)：PyPDF 2是一个python PDF库，能够分割、合并、裁剪和转换PDF文件的页面。它还可以向PDF文件中添加自定义数据、查看选项和密码。它可以从PDF检索文本和元数据，还可以将整个文件合并在一起。
   - [ReportLab](https://www.reportlab.com/opensource/)：ReportLab能快速创建PDF 文档。经过时间证明的、超好用的开源项目，用于创建复杂的、数据驱动的PDF文档和自定义矢量图形。它是免费的，开源的，用Python编写的。该软件包每月下载5万多次，是标准Linux发行版的一部分，嵌入到许多产品中，并被选中为Wikipedia的打印/导出功能提供动力。
+  - 
   
 **273\. 中文词语相似度计算方法** [gihtub](https://github.com/yaleimeng/Final_word_Similarity)
 - 综合了同义词词林扩展版与知网（Hownet）的词语相似度计算方法，词汇覆盖更多、结果更准确。
@@ -1092,3 +1096,85 @@ for word in misspelled:
 **297\. Fancy-NLP:用于建设商品画像的文本知识挖掘工具** [github](https://github.com/boat-group/fancy-nlp)
 
 **298\. 基于百度webqa与dureader数据集训练的Albert Large QA模型** [github](https://github.com/wptoux/albert-chinese-large-webqa/tree/master)
+
+**299\. BERT/CRF实现的命名实体识别** [github](https://github.com/Louis-udm/NER-BERT-CRF)
+
+**300\. ssc, Sound Shape Code, 音形码 - 基于“音形码”的中文字符串相似度计算方法** 
+- [version 1](https://github.com/qingyujean/ssc)
+- [version 2](https://github.com/wenyangchou/SimilarCharactor)
+- [blog/introduction](https://blog.csdn.net/chndata/article/details/41114771)
+
+**301\. 中文指代消解数据** [github](https://github.com/CLUEbenchmark/CLUEWSC2020)
+- [baidu ink](https://pan.baidu.com/s/1gKP_Mj-7KVfFWpjYvSvAAA)  code: a0qq
+
+**302\. 全面简便的中文 NLP 工具包** [github](https://github.com/dongrixinyu/JioNLP)
+
+**303\. 中文地址分词（地址元素识别与抽取），通过序列标注进行NER** [github](https://github.com/yihenglu/chinese-address-segment)
+
+**304\. 用Transformers(BERT, XLNet, Bart, Electra, Roberta, XLM-Roberta)预测下一个词(模型比较)** [github](https://github.com/renatoviolin/next_word_prediction)
+
+**305\. 文本机器学习模型最先进解释器库** [github](https://github.com/interpretml/interpret-text)
+
+**306\. 多文档摘要数据集** [github](https://github.com/complementizer/wcep-mds-dataset)
+
+**307\. 用记事本渲染3D图像** [github](https://github.com/khalladay/render-with-notepad)
+
+**308\. char_featurizer - 汉字字符特征提取工具** [github](https://github.com/charlesXu86/char_featurizer)
+
+**309\. SimBERT - 基于UniLM思想、融检索与生成于一体的BERT模型** [github](https://github.com/ZhuiyiTechnology/simbert)
+
+**310\. Python音频特征提取包** [github](https://github.com/novoic/surfboard)
+
+**311\. TensorFlow 2 实现的文本语音合成** [github](https://github.com/as-ideas/TransformerTTS)
+
+**312\. 情感分析技术：让智能客服更懂人类情感** [github](https://developer.aliyun.com/article/761513?utm_content=g_1000124809)
+
+**313\. TensorFlow Hub最新发布40+种语言的新语言模型(包括中文)** [link](https://tfhub.dev/google/collections/wiki40b-lm/1)
+
+**314\. 汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征** [github](https://github.com/howl-anderson/hanzi_char_featurizer)
+
+**315\. 工业界常用基于DSSM向量化召回pipeline复现** [github](https://github.com/wangzhegeek/DSSM-Lookalike)
+
+**316\. 不存在的词：用GPT-2变体从头生成新词及其定义、例句** [github](https://github.com/turtlesoupy/this-word-does-not-exist)
+
+**317\. TextAttack：自然语言处理模型对抗性攻击框架** [github](https://github.com/QData/TextAttack)
+
+**318\. 仇恨言论检测进展** [link](https://ai.facebook.com/blog/ai-advances-to-better-detect-hate-speech)
+
+**319\. OPUS-100：以英文为中心的多语(100种)平行语料** [github](https://github.com/EdinburghNLP/opus-100-corpus)
+
+**320\. 从论文中提取表格数据** [github](https://github.com/paperswithcode/axcell)
+
+**321\. 让人人都变得“彬彬有礼”：礼貌迁移任务——在保留意义的同时将非礼貌语句转换为礼貌语句，提供包含1.39M + 实例的数据集** [paper and code](https://arxiv.org/abs/2004.14257)
+
+**322\. 用BERT在表格中寻找答案** [github](https://github.com/google-research/tapas)
+
+**323\. PyTorch实现的BERT事件抽取(ACE 2005 corpus)** [github](https://github.com/nlpcl-lab/bert-event-extraction)
+
+**324\. 表格问答的系列文章**
+- [简介](https://mp.weixin.qq.com/s?__biz=MzAxMDk0OTI3Ng==&mid=2247484103&idx=2&sn=4a5b50557ab9178270866d812bcfc87f&chksm=9b49c534ac3e4c22de7c53ae5d986fac60a7641c0c072d4038d9d4efd6beb24a22df9f859d08&scene=21#wechat_redirect)
+- [模型](https://mp.weixin.qq.com/s?__biz=MzAxMDk0OTI3Ng==&mid=2247484103&idx=1&sn=73f37fbc1dbd5fdc2d4ad54f58693ef3&chksm=9b49c534ac3e4c222f6a320674b3728cf8567b9a16e6d66b8fdcf06703b05a16a9c9ed9d79a3&scene=21#wechat_redirect)
+- [完结篇](https://mp.weixin.qq.com/s/ee1DG_vO2qblqFC6zO97pA)
+
+**325\. LibKGE：面向可复现研究的知识图谱嵌入库** [github](https://github.com/uma-pi1/kge)
+
+**326\. comparxiv :用于比较arXiv上两提交版本差异的命令** [pypi](https://pypi.org/project/comparxiv/)
+
+**327\. ViSQOL：音频质量感知客观、完整参考指标，分音频、语音两种模式** [github](https://github.com/google/visqol)
+
+**328\. 方面情感分析包** [github](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)
+
+**329\. dstlr：非结构化文本可扩展知识图谱构建平台** [github](https://github.com/dstlry/dstlr)
+
+**330\. 由文本自动生成多项选择题** [github](https://github.com/KristiyanVachev/Question-Generation)
+
+**331\. 大规模跨领域中文任务导向多轮对话数据集及模型CrossWOZ** [paper & data](https://arxiv.org/pdf/2002.11893.pdf)
+
+**332\. whatlies：词向量交互可视化** [spacy
+工具](https://spacy.io/universe/project/whatlies)
+
+**333\. 支持批并行的LatticeLSTM中文命名实体识别** [github](https://github.com/LeeSureman/Batch_Parallel_LatticeLSTM)
+
+**334\. 基于Albert、Electra，用维基百科文本作为上下文的问答引擎** [github](https://github.com/renatoviolin/Question-Answering-Albert-Electra)
+
+**335\. Deepmatch：针对推荐、广告和搜索的深度匹配模型库** [github](https://github.com/shenweichen/DeepMatch)
