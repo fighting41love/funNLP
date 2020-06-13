@@ -1178,3 +1178,33 @@ for word in misspelled:
 **334\. 基于Albert、Electra，用维基百科文本作为上下文的问答引擎** [github](https://github.com/renatoviolin/Question-Answering-Albert-Electra)
 
 **335\. Deepmatch：针对推荐、广告和搜索的深度匹配模型库** [github](https://github.com/shenweichen/DeepMatch)
+
+**336\. 语音工具合集**
+  - zhrtvc 好用的中文语音克隆兼中文语音合成系统 [github](https://github.com/KuangDD/zhrtvc)
+  - aukit 好用的语音处理工具箱，包含语音降噪、音频格式转换、特征频谱生成等模块 [github](https://github.com/KuangDD/aukit)
+  - phkit 好用的音素处理工具箱，包含中文音素、英文音素、文本转拼音、文本正则化等模块 [github](https://github.com/KuangDD/phkit)
+  - zhvoice 中文语音语料，语音更加清晰自然，包含8个开源数据集，3200个说话人，900小时语音，1300万字 [github](https://github.com/KuangDD/zhvoice)
+
+**337\. 多音字词典数据及代码** [github](https://github.com/mozillazg/phrase-pinyin-data)
+
+**338\. audio：面向语音行为检测、二值化、说话人识别、自动语音识别、情感识别等任务的音频标注工具** [github](https://github.com/midas-research/audino)
+
+**339\. 大规模、结构化、中英文双语的新冠知识图谱(COKG-19)** [link](http://openkg.cn/dataset/39801d1b-0b51-4cde-a06c-62def5a70563)
+  - COKG-19包含了505个概念、393个属性、26282个实例和32352个知识三元组，覆盖了医疗、健康、物资、防控、科研和人物等
+
+**340\. 132个知识图谱的数据集** [link](http://openkg.cn/dataset)
+  - 涵盖常识、城市、金融、农业、地理、气象、社交、物联网、医疗、娱乐、生活、商业、出行、科教
+
+**341\. 42GB的JD客服对话数据(CSDD)** [github](https://github.com/jd-aig/nlp_baai/tree/master/pretrained_models_and_embeddings)
+  - 12亿句子训练得到的word embedding
+
+**342\. 合成数据生成基准** [github](https://github.com/sdv-dev/SDGym)
+
+**343\. 汉字、词语、成语查询接口** [github](https://github.com/netnr/zidian/tree/206028e5ce9a608afc583820df8dc2d1d4b61781)
+
+**344\. 中文问题句子相似度计算比赛及方案汇总** [github](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
+
+**345\. Texthero：文本数据高效处理包，包括预处理、关键词提取、命名实体识别、向量空间分析、文本可视化等** [github](https://github.com/jbesomi/texthero)
+
+**346\. SIMPdf：Python写的简单PDF文件文字编辑器** [github](https://github.com/shashanoid/Simpdf)
+
