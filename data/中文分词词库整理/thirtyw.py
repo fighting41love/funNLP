@@ -8,7 +8,7 @@ for line in f:
 	temp_sublist = temp_list[1].split('\t')
 	if len(temp_sublist[1]) > 2:
 		count = count + 1
-		print temp_sublist[1]
+		print(temp_sublist[1])
 		fout.write(temp_sublist[1] + '\n')
 f.close()
 fout.close()
