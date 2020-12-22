@@ -1245,4 +1245,7 @@ for word in misspelled:
 
 **363\. 用新版nlp库加载17GB+英文维基语料只占用9MB内存遍历速度2-3 Gbit/s** [github](https://gist.github.com/thomwolf/13ca2b2b172b2d17ac66685aa2eeba62)
 
+**364\. 礼貌程度估算器（使用新浪微博数据训练）** [github](https://github.com/tslmy/politeness-estimator) [paper](https://dl.acm.org/doi/abs/10.1145/3415190)
+
+
 
