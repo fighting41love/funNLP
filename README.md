@@ -8,6 +8,7 @@
     color: #999;
     padding: 2px;">NLP民工的乐园</div>
 </center>
+<br><br><br><br>
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmountain-blue-64)](https://www.zhihu.com/people/mountain-blue-64)
 [![](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfighting41love)](https://github.com/fighting41love)
@@ -19,9 +20,9 @@
 在入门到熟悉NLP的过程中，用到了很多github上的包，遂整理了一下，分享在这里。
 
 很多包非常有趣，值得收藏，满足大家的收集癖！
-如果觉得有用，请分享并star，谢谢！
+如果觉得有用，请分享并star:star:，谢谢！
 
-长期不定时更新，欢迎watch和fork！
+长期不定时更新，欢迎watch和fork！:heart::heart::heart::heart::heart:
 
 目录（Table of contents）
 =================
