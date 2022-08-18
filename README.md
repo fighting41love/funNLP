@@ -367,7 +367,7 @@
 |    端到端的封闭域对话系统    |        |  [github](https://github.com/cdqa-suite/cdQA)   |
 |     MiningZhiDaoQACorpus    |    580万百度知道问答数据挖掘项目，百度知道问答语料库，包括超过580万的问题，每个问题带有问题标签。基于该问答语料库，可支持多种应用，如逻辑挖掘    |    [github]() |
 |   用于中文闲聊的GPT2模型GPT2-chitchat     |        |    [github](https://github.com/yangjianxin1/GPT2-chitchat) |
-|    基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)    |        |   [github](https://github.com/yangjianxin1/GPT2-chitchat)  |
+|    基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)    |        |   [github](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)  |
 |   微软对话机器人框架     |        |    [github](https://github.com/microsoft/botframework) |
 |      chatbot-list  |   行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍    |  [github](https://github.com/lizhe2004/chatbot-list)   |
 |     Chinese medical dialogue data 中文医疗对话数据集   |        |   [github](https://github.com/Toyhom/Chinese-medical-dialogue-data)  |
