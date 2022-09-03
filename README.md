@@ -213,11 +213,14 @@
 |    通过同义词替换实现文本“变脸”    |        |    [github](https://github.com/paubric/python-sirajnet) |
 |    token2index与PyTorch/Tensorflow兼容的强大轻量词条索引库    |        |  [github](https://github.com/Kaleidophon/token2index)   |
 |    繁简体转换    |        |   [github](https://github.com/berniey/hanziconv)  |
+| 粤语NLP工具|       |   [github](https://github.com/jacksonllee/pycantonese)|
 
-# 预训练语言模型   
+
+# 预训练语言模型&大模型
    
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
+|BMList|大模型大列表|[github](https://github.com/OpenBMB/BMList)|
 | bert论文中文翻译     |        | [link](https://github.com/yuanxiaosc/BERT_Paper_Chinese_Translation)   |
 |    bert原作者的slides  |    |  [link](https://pan.baidu.com/s/1OSPsIu2oh1iJ-bcXoDZpJQ)  |
 | 文本分类实践     |        |  [github](https://github.com/NLPScott/bert-Chinese-classification-task)  |
@@ -245,7 +248,7 @@
 |   UER     | 基于不同语料、编码器、目标任务的中文预训练模型仓库（包括BERT、GPT、ELMO等）       |  [github](https://github.com/dbiir/UER-py)    |
 |    开源预训练语言模型合集    |        |  [github](https://github.com/ZhuiyiTechnology/pretrained-models)   |
 |   多语言句向量包     |        |  [github](https://github.com/yannvgn/laserembeddings)   |
-
+|Language Model as a Service (LMaaS)|语言模型即服务|[github](https://github.com/txsun1997/LMaaS-Papers)|
 
 # 抽取
 
@@ -449,7 +452,7 @@
 |   PyPDF2     |     PyPDF 2是一个python PDF库，能够分割、合并、裁剪和转换PDF文件的页面。它还可以向PDF文件中添加自定义数据、查看选项和密码。它可以从PDF检索文本和元数据，还可以将整个文件合并在一起。  |   [link](https://github.com/mstamy2/PyPDF2)  |
 |    ReportLab   |      ReportLab能快速创建PDF 文档。经过时间证明的、超好用的开源项目，用于创建复杂的、数据驱动的PDF文档和自定义矢量图形。它是免费的，开源的，用Python编写的。该软件包每月下载5万多次，是标准Linux发行版的一部分，嵌入到许多产品中，并被选中为Wikipedia的打印/导出功能提供动力。  | [link](https://www.reportlab.com/opensource/)   |
 |    SIMPdfPython写的简单PDF文件文字编辑器    |        |   [github](https://github.com/shashanoid/Simpdf)  |
-
+|pdf-diff |PDF文件diff工具 可显示两个pdf文档的差别| [github](https://github.com/serhack/pdf-diff)|
 
 # 表格处理
 
@@ -556,7 +559,7 @@
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
 |   无道词典     |  有道词典的命令行版本，支持英汉互查和在线查询      |  [github](https://github.com/ChestnutHeng/Wudao-dict)   |
-
+|NLLB|支持200+种语言任意互译的语言模型NLLB|[link](https://openbmb.github.io/BMList/list/)|
 
 # 数字转换
 
@@ -603,12 +606,12 @@
 |   文本机器学习模型最先进解释器库     |        |  [github](https://github.com/interpretml/interpret-text)   |
 
 
-# 文本对抗攻击
+# 文本攻击
 
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
 |     TextAttack自然语言处理模型对抗性攻击框架   |        |    [github](https://github.com/QData/TextAttack) |
-
+|OpenBackdoor: 文本后门攻防工具包|       OpenBackdoor基于Python和PyTorch开发，可用于复现、评估和开发文本后门攻防的相关算法     |    [github](https://github.com/thunlp/OpenBackdoor)|
 
 # 文本可视化
 
@@ -681,7 +684,8 @@
 |   用神经网络符号推理求解复杂数学方程     |        |    [github](https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/) |
 |   基于14W歌曲知识库的问答机器人    |     功能包括歌词接龙，已知歌词找歌曲以及歌曲歌手歌词三角关系的问答   |    [github](https://github.com/liuhuanyong/MusicLyricChatbot) |
 |    COPE - 格律诗编辑程序    |        |  [github](https://github.com/LingDong-/cope)   |
-
+|Paper2GUI | 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域 |   [github](https://github.com/Baiyuetribe/paper2gui) |  
+|礼貌程度估算器（使用新浪微博数据训练）|| [github](https://github.com/tslmy/politeness-estimator) [paper](https://dl.acm.org/doi/abs/10.1145/3415190)|
 
 # 课程报告面试等
 
@@ -707,6 +711,7 @@
 |   nlp-recipes微软出品--自然语言处理最佳实践和范例     |        |   [github](https://github.com/microsoft/nlp-recipes)  |
 |    面向深度学习研究人员的自然语言处理实例教程    |        |   [github](https://github.com/graykode/nlp-tutorial)  |
 |   Transfer Learning in Natural Language Processing (NLP)     |        |    [youtube](https://www.youtube.com/watch?v=ly0TRNr7I_M) |
+|《机器学习系统》图书|  |  [link](https://openmlsys.github.io/)  [github](https://github.com/fighting41love/openmlsys-zh) |
 
 
 # 比赛
