@@ -166,6 +166,8 @@
 |  NLP数据集/基准任务大列表     |        |  [github](https://quantumstatcom/dataset/datasethtml)   |
 |   LitBankNLP数据集     |   支持自然语言处理和计算人文学科任务的100部带标记英文小说语料     | [github](https://github.com/dbamman/litbank)    |
 |70万对联数据||[github](https://github.com/wb14123/couplet-dataset)|
+|文言文（古文）-现代文平行语料|短篇章中包括了《论语》、《孟子》、《左传》等篇幅较短的古籍，已和《资治通鉴》合并|[github](https://github.com/NiuTrans/Classical-Modern)|
+|COLDDateset，中文冒犯性语言检测数据集|涵盖了种族、性别和地区等话题内容，数据待论文发表后放出|[paper](https://arxiv.org/pdf/2201.06025.pdf)|
 
 # 词库及词法工具
 
@@ -214,6 +216,8 @@
 |    token2index与PyTorch/Tensorflow兼容的强大轻量词条索引库    |        |  [github](https://github.com/Kaleidophon/token2index)   |
 |    繁简体转换    |        |   [github](https://github.com/berniey/hanziconv)  |
 | 粤语NLP工具|       |   [github](https://github.com/jacksonllee/pycantonese)|
+|领域词典库|涵盖68个领域、共计916万词的专业词典知识库|[github](github.com/liuhuanyong/DomainWordsDict)|
+
 
 
 # 预训练语言模型&大模型
@@ -249,6 +253,7 @@
 |    开源预训练语言模型合集    |        |  [github](https://github.com/ZhuiyiTechnology/pretrained-models)   |
 |   多语言句向量包     |        |  [github](https://github.com/yannvgn/laserembeddings)   |
 |Language Model as a Service (LMaaS)|语言模型即服务|[github](https://github.com/txsun1997/LMaaS-Papers)|
+|开源语言模型GPT-NeoX-20B|200亿参数，是目前最大的可公开访问的预训练通用自回归语言模型|[github](https://github.com/EleutherAI/gpt-neox)|
 
 # 抽取
 
@@ -401,8 +406,14 @@
 |    BertPunc基于BERT的最先进标点修复模型    |        |   [github](https://github.com/nkrnrnk/BertPunc)  |
 |    中文写作校对工具    |        |  [github](https://xiezuocat.com/#/)   |
 
-# 语音处理
 
+# 多模态
+| 资源名（Name）      | 描述（Description） | 链接     |
+| :---        |    :---  |          :--- |
+|中文多模态数据集「悟空」|华为诺亚方舟实验室开源大型，包含1亿图文对|[github](https://wukong-dataset.github.io/wukong-dataset/)|
+
+
+# 语音处理
 
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
@@ -472,6 +483,7 @@
 |   封闭域微调表格检测     |        |  [github](https://github.com/holms-ur/fine-tuning)   |
 |   PDF表格数据提取工具     |        |   [github](https://github.com/camelot-dev/camelot)  |
 |     TaBERT理解表格数据查询的新模型   |        |  [paper](https://scontent-hkt1-1xxfbcdnnet/v/t398562-6/106708899_597765107810230_1899215558892880563_npdf?_nc_cat=107&_nc_sid=ae5e01&_nc_ohc=4sN3TJwewSIAX8iliBD&_nc_ht=scontent-hkt1-1xx&oh=eccb9795f027ff63be61ff4a5e337c02&oe=5F316505)   |
+| 表格处理 | Awesome-Table-Recognition | [github](https://github.com/cv-small-snails/Awesome-Table-Recognition)|
 
 
 
