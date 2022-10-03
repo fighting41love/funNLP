@@ -30,7 +30,7 @@
 长期不定时更新，欢迎watch和fork！:heart::heart::heart:
 
  
-|  :eggplant: :cherries: :apple: :pear: :tangerine: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  :sunflower: :strawberry:  :melon: :tomato: :pineapple: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+|  :eggplant: :cherries: :apple: :pear: :tangerine:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  :sunflower: :strawberry:  :melon: :tomato: :pineapple: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |  ----  | ----  |
 | * [语料库](#语料库)  <br> * [词库及词法工具](#词库及词法工具)  <br> * [预训练语言模型](#预训练语言模型)  <br>  * [抽取](#抽取)  <br> * [知识图谱](#知识图谱)  <br>   * [文本生成](#文本生成) <br>   * [文本摘要](#文本摘要)  <br>  * [智能问答](#智能问答) <br>  * [文本纠错](#文本纠错)  | * [文档处理](#文档处理) <br>   * [表格处理](#表格处理) <br>   * [文本匹配](#文本匹配)  <br>   * [文本数据增强](#文本数据增强) <br>   * [文本检索](#文本检索) <br>  * [阅读理解](#阅读理解) <br>  * [情感分析](#情感分析) <br>  * [常用正则表达式](#常用正则表达式) <br>   * [语音处理](#语音处理) |
 | * [常用正则表达式](#常用正则表达式) <br>  * [事件抽取](#事件抽取) <br> * [机器翻译](#机器翻译) <br> * [数字转换](#数字转换) <br>  * [指代消解](#指代消解) <br>  * [文本聚类](#文本聚类) <br>  * [文本分类](#文本分类) <br> * [知识推理](#知识推理) <br> * [可解释NLP](#可解释自然语言处理) <br> * [文本对抗攻击](#文本对抗攻击)  |  * [文本可视化](#文本可视化)  <br>  * [文本标注工具](#文本标注工具) <br>  * [综合工具](#综合工具) <br> * [有趣搞笑工具](#有趣搞笑工具) <br> * [课程报告面试等](#课程报告面试等) <br> * [比赛](#比赛) <br> * [金融NLP](#金融自然语言处理) <br> * [医疗NLP](#医疗自然语言处理) <br> * [法律NLP](#法律自然语言处理) <br> * [其他](#其他)  |
