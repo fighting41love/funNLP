@@ -10,9 +10,14 @@
 </center>
 <br><br><br><br>
 
+[![](https://img.shields.io/github/stars/fighting41love/funnlp?style=social)](https://github.com/fighting41love/funnlp)
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmountain-blue-64)](https://www.zhihu.com/people/mountain-blue-64)
-[![](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfighting41love)](https://github.com/fighting41love)
-[![](data/.logo图片/.捐赠图片/.PaperCitations-467-red.svg)](https://scholar.google.com/citations?hl=en&user=aqZdfDUAAAAJ)
+[![](data/.logo图片/.捐赠图片/.Citations-487-red.svg)](https://scholar.google.com/citations?hl=en&user=aqZdfDUAAAAJ)
+
+[![](data/.logo图片/.捐赠图片/.Home-%E4%BA%BA%E7%94%9F%E6%B5%AA%E8%B4%B9%E6%8C%87%E5%8D%97-brightgreen.svg)](https://scholar.google.com/citations?hl=en&user=aqZdfDUAAAAJ)
+[![](data/.logo图片/.捐赠图片/.%E7%8C%8E%E9%80%81%E9%97%A8-CV-orange.svg)](http://fighting41love.github.io/)
+<!-- [![](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfighting41love)](https://github.com/fighting41love) -->
+<!-- [![](https://img.shields.io/badge/Homepage-%E4%BA%BA%E7%94%9F%E6%B5%AA%E8%B4%B9%E6%8C%87%E5%8D%97-brightgreen)](http://fighting41love.github.io/archives/) -->
 
 ### The Most Powerful NLP-Weapon Arsenal
 
@@ -23,6 +28,15 @@
 如果觉得有用，请分享并star:star:，谢谢！
 
 长期不定时更新，欢迎watch和fork！:heart::heart::heart::heart::heart:
+
+
+
+|  目录   |  Table of contents |
+|  ----  | ----  |
+|  :strawberry: |* [语料库](#语料库)  <br> * [词库及词法工具](#词库及词法工具)  <br> * [预训练语言模型](#预训练语言模型)  <br>  * [抽取](#抽取)  <br> * [知识图谱](#知识图谱)  <br>   * [文本生成](#文本生成) <br>   * [文本摘要](#文本摘要)  <br>  * [智能问答](#智能问答) <br>  * [文本纠错](#文本纠错) |
+| :sunflower:  |    * [文档处理](#文档处理) <br>   * [表格处理](#表格处理) <br>   * [文本匹配](#文本匹配)  <br>   * [文本数据增强](#文本数据增强) <br>   * [文本检索](#文本检索) <br>  * [阅读理解](#阅读理解) <br>  * [情感分析](#情感分析) <br>  * [常用正则表达式](#常用正则表达式) <br>   * [语音处理](#语音处理) |
+| :sparkler: |   * [常用正则表达式](#常用正则表达式) <br>  * [事件抽取](#事件抽取) <br> * [机器翻译](#机器翻译) <br> * [数字转换](#数字转换) <br>  * [指代消解](#指代消解) <br>  * [文本聚类](#文本聚类) <br>  * [文本分类](#文本分类) <br> * [知识推理](#知识推理) <br> * [可解释NLP](#可解释自然语言处理) <br> * [文本对抗攻击](#文本对抗攻击)|
+| :100: |   * [文本可视化](#文本可视化)  <br>  * [文本标注工具](#文本标注工具) <br>  * [综合工具](#综合工具) <br> * [有趣搞笑工具](#有趣搞笑工具) <br> * [课程报告面试等](#课程报告面试等) <br> * [比赛](#比赛) <br> * [金融NLP](#金融自然语言处理) <br> * [医疗NLP](#医疗自然语言处理) <br> * [法律NLP](#法律自然语言处理) <br> * [其他](#其他)|
 
 目录（Table of contents）
 =================
@@ -254,6 +268,8 @@
 |   多语言句向量包     |        |  [github](https://github.com/yannvgn/laserembeddings)   |
 |Language Model as a Service (LMaaS)|语言模型即服务|[github](https://github.com/txsun1997/LMaaS-Papers)|
 |开源语言模型GPT-NeoX-20B|200亿参数，是目前最大的可公开访问的预训练通用自回归语言模型|[github](https://github.com/EleutherAI/gpt-neox)|
+|中文科学文献数据集（CSL）|包含 396,209 篇中文核心期刊论文元信息 （标题、摘要、关键词、学科、门类）。CSL 数据集可以作为预训练语料，也可以构建许多NLP任务，例如文本摘要（标题预测）、 关键词生成和文本分类等。|[github](https://github.com/ydli-ai/CSL)|
+|大模型开发神器||[github](https://github.com/hpcaitech/ColossalAI)|
 
 # 抽取
 
@@ -322,7 +338,8 @@
 |  百度百科人物词条属性抽取    |  用基于BERT的微调和特征提取方法来进行知识图谱      |   [github](https://github.com/sakuranew/BERT-AttributeExtraction)|
 |   新冠肺炎相关数据     |  新冠及其他类型肺炎中文医疗对话数据集；清华大学等机构的开放数据源（COVID-19）   | [github](https://www.aminer.cn/data-covid19/)<br>  [github](https://github.com/UCSD-AI4H/COVID-Dialogue) |
 |   DGL-KE 图嵌入表示学习算法     |        |   [github](https://github.com/awslabs/dgl-ke)  |
-
+|因果关系图谱||[method](https://github.com/liuhuanyong/CausalityEventExtraction) [data](https://github.com/fighting41love/CausalDataset)|
+|基于多领域文本数据集的因果事件对||[link](http://thuctc.thunlp.org/)|
 
 # 文本生成
  
@@ -405,6 +422,8 @@
 |    GitHub Typo Corpus大规模GitHub多语言拼写错误/语法错误数据集    |        |   [github](https://github.com/mhagiwara/github-typo-corpus)  |
 |    BertPunc基于BERT的最先进标点修复模型    |        |   [github](https://github.com/nkrnrnk/BertPunc)  |
 |    中文写作校对工具    |        |  [github](https://xiezuocat.com/#/)   |
+|文本纠错文献列表| Chinese Spell Checking (CSC) and Grammatical Error Correction (GEC)|[github](https://github.com/nghuyong/text-correction-papers)|
+|文本智能校对大赛冠军方案|已落地应用，来自苏州大学、达摩院团队|[link](https://mp.weixin.qq.com/s/2TjpmoYnt2BUTQVLi26AFA)|
 
 
 # 多模态
@@ -534,7 +553,7 @@
 |    Deepmatch针对推荐、广告和搜索的深度匹配模型库    |        |   [github](https://github.com/shenweichen/DeepMatch)  |
 |    wwsearch是企业微信后台自研的全文检索引擎    |        |   [github](https://github.com/Tencent/wwsearch)  |
 |   aili - the fastest in-memory index in the East 东半球最快并发索引     |        |    [github](https://github.com/UncP/aili) |
-
+|高效的字符串匹配工具 RapidFuzz|a fast string matching library for Python and C++, which is using the string similarity calculations from FuzzyWuzzy|[github](https://github.com/maxbachmann/rapidfuzz)|
 
 # 阅读理解
 
@@ -681,7 +700,8 @@
 |    nlpgnn图神经网络自然语言处理工具箱    |        |  [github](https://github.com/kyzhouhzau/NLPGNN)   |
 |    Macadam   |  以Tensorflow(Keras)和bert4keras为基础，专注于文本分类、序列标注和关系抽取的自然语言处理工具包     |    [github](https://github.com/yongzhuo/Macadam) |
 |    LineFlow面向所有深度学习框架的NLP数据高效加载器    |        |   [github](https://github.com/tofunlp/lineflow)  |
-
+|Arabica：Python文本数据探索性分析工具包||[github](https://github.com/PetrKorab/Arabica)|
+|Python 压力测试工具：SMSBoom||[github](github.com/WhaleFell/SMSBoom)|
 
 # 有趣搞笑工具
 
@@ -698,6 +718,9 @@
 |    COPE - 格律诗编辑程序    |        |  [github](https://github.com/LingDong-/cope)   |
 |Paper2GUI | 一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域 |   [github](https://github.com/Baiyuetribe/paper2gui) |  
 |礼貌程度估算器（使用新浪微博数据训练）|| [github](https://github.com/tslmy/politeness-estimator) [paper](https://dl.acm.org/doi/abs/10.1145/3415190)|
+|草蟒（Python 中文版）入门指南|中文编程语言|[homepage](https://www.grasspy.cn/zwdocs/grasspy-start/day1/)  [gitee](https://gitee.com/laowu2019_admin/zwdocs)|
+
+
 
 # 课程报告面试等
 
@@ -742,7 +765,7 @@
 |     开源的金融投资数据提取工具    |        |    [github](https://github.com/PKUJohnson/OpenData) |
 |    金融领域自然语言处理研究资源大列表    |        |    [github](https://github.com/icoxfog417/awesome-financial-nlp) |
 |   基于金融-司法领域(兼有闲聊性质)的聊天机器人     |        |   [github](https://github.com/charlesXu86/Chatbot_CN)  |
-
+|小型金融知识图谱构流程示范| |[github](github.com/jm199504/Financial-Knowledge-Graphs)|
 
 # 医疗自然语言处理
 
