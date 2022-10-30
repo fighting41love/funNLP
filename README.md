@@ -32,7 +32,7 @@
 |  :eggplant: :cherries: :pear: :tangerine:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  :sunflower: :strawberry:  :melon: :tomato: :pineapple: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |  ----  | ----  |
 | * [语料库](#语料库)  <br> * [词库及词法工具](#词库及词法工具)  <br> * [预训练语言模型](#预训练语言模型)  <br>  * [抽取](#抽取)  <br> * [知识图谱](#知识图谱)  <br>   * [文本生成](#文本生成) <br>   * [文本摘要](#文本摘要)  <br>  * [智能问答](#智能问答) <br>  * [文本纠错](#文本纠错)  | * [文档处理](#文档处理) <br>   * [表格处理](#表格处理) <br>   * [文本匹配](#文本匹配)  <br>   * [文本数据增强](#文本数据增强) <br>   * [文本检索](#文本检索) <br>  * [阅读理解](#阅读理解) <br>  * [情感分析](#情感分析) <br>  * [常用正则表达式](#常用正则表达式) <br>   * [语音处理](#语音处理) |
-| * [常用正则表达式](#常用正则表达式) <br>  * [事件抽取](#事件抽取) <br> * [机器翻译](#机器翻译) <br> * [数字转换](#数字转换) <br>  * [指代消解](#指代消解) <br>  * [文本聚类](#文本聚类) <br>  * [文本分类](#文本分类) <br> * [知识推理](#知识推理) <br> * [可解释NLP](#可解释自然语言处理) <br> * [文本对抗攻击](#文本对抗攻击)  |  * [文本可视化](#文本可视化)  <br>  * [文本标注工具](#文本标注工具) <br>  * [综合工具](#综合工具) <br> * [有趣搞笑工具](#有趣搞笑工具) <br> * [课程报告面试等](#课程报告面试等) <br> * [比赛](#比赛) <br> * [金融NLP](#金融自然语言处理) <br> * [医疗NLP](#医疗自然语言处理) <br> * [法律NLP](#法律自然语言处理) <br> * [其他](#其他)  |
+| * [常用正则表达式](#常用正则表达式) <br>  * [事件抽取](#事件抽取) <br> * [机器翻译](#机器翻译) <br> * [数字转换](#数字转换) <br>  * [指代消解](#指代消解) <br>  * [文本聚类](#文本聚类) <br>  * [文本分类](#文本分类) <br> * [知识推理](#知识推理) <br> * [可解释NLP](#可解释自然语言处理) <br> * [文本对抗攻击](#文本对抗攻击)  |  * [文本可视化](#文本可视化)  <br>  * [文本标注工具](#文本标注工具) <br>  * [综合工具](#综合工具) <br> * [有趣搞笑工具](#有趣搞笑工具) <br> * [课程报告面试等](#课程报告面试等) <br> * [比赛](#比赛) <br> * [金融NLP](#金融自然语言处理) <br> * [医疗NLP](#医疗自然语言处理) <br> * [法律NLP](#法律自然语言处理) <br> * [文本生成图像](#文本生成图像) <br> * [其他](#其他)  |
 
 <!-- 
 目录（Table of contents）
@@ -481,6 +481,7 @@
 |    SIMPdfPython写的简单PDF文件文字编辑器    |        |   [github](https://github.com/shashanoid/Simpdf)  |
 |pdf-diff |PDF文件diff工具 可显示两个pdf文档的差别| [github](https://github.com/serhack/pdf-diff)|
 
+
 # 表格处理
 
 | 资源名（Name）      | 描述（Description） | 链接     |
@@ -588,6 +589,7 @@
 | :---        |    :---  |          :--- |
 |   无道词典     |  有道词典的命令行版本，支持英汉互查和在线查询      |  [github](https://github.com/ChestnutHeng/Wudao-dict)   |
 |NLLB|支持200+种语言任意互译的语言模型NLLB|[link](https://openbmb.github.io/BMList/list/)|
+|Easy-Translate|在本地翻译大文本文件的脚本，基于Facebook/Meta AI的 M2M100模型和NLLB200模型，支持200+种语言|[github](https://github.com/ikergarcia1996/Easy-Translate/fork)|
 
 # 数字转换
 
@@ -786,6 +788,11 @@
 |   基于金融-司法领域(兼有闲聊性质)的聊天机器人     |        |   [github](https://github.com/charlesXu86/Chatbot_CN)  |
 |   罪名法务名词及分类模型    |    包含856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能    |    [github](https://github.com/liuhuanyong/CrimeKgAssitant)     |
 
+# 文本生成图像
+
+| 资源名（Name）      | 描述（Description） | 链接     |
+| :---        |    :---  |          :--- |
+| Dalle-mini|根据文本提示生成图片的迷你版DALL·E|[github](https://github.com/borisdayma/dalle-mini)|
 
 # 其他
 
