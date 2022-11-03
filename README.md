@@ -467,6 +467,7 @@
 
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
+|LayoutLM-v3文档理解模型||[github](https://github.com/microsoft/unilm/tree/master/layoutlmv3)|
 |   PyLaia面向手写文档分析的深度学习工具包     |        |   [github](https://github.com/jpuigcerver/PyLaia)  |
 |    单文档非监督的关键词抽取    |        |  [github](https://github.com/LIAAD/yake)   |
 |      DocSearch免费文档搜索引擎  |        |   [github](https://github.com/algolia/docsearch)  |
