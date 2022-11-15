@@ -133,7 +133,7 @@
 |   Chinese-Word-Vectors    |  各种中文词向量      |  [github repo](https://github.com/Embedding/Chinese-Word-Vectors)  |
 |    中文聊天语料    |   该库搜集了包含豆瓣多轮, PTT八卦语料, 青云语料, 电视剧对白语料, 贴吧论坛回帖语料,微博语料,小黄鸡语料     |  [link](https://github.com/codemayq/chaotbot_corpus_Chinese)  |
 |    中文谣言数据    |     该数据文件中，每一行为一条json格式的谣言数据   |   [github](https://github.com/thunlp/Chinese_Rumor_Dataset)  |
-|     中文问答数据集   |        |  [链接](https://panbaiducom/s/1QUsKcFWZ7Tg1dk_AbldZ1A) 提取码 2dva  |
+|     中文问答数据集   |        |  [链接](https://pan.baidu.com/s/1QUsKcFWZ7Tg1dk_AbldZ1A) 提取码 2dva  |
 |    微信公众号语料   |   3G语料，包含部分网络抓取的微信公众号的文章，已经去除HTML，只包含了纯文本。每行一篇，是JSON格式，name是微信公众号名字，account是微信公众号ID，title是题目，content是正文     | [github](https://github.com/nonamestreet/weixin_public_corpus)    |
 |    中文自然语言处理 语料、数据集   |        |  [github](https://github.com/SophonPlus/ChineseNlpCorpus)  |
 |    任务型对话英文数据集    |     【最全任务型对话数据集】主要介绍了一份任务型对话数据集大全，这份数据集大全涵盖了到目前在任务型对话领域的所有常用数据集的主要信息。此外，为了帮助研究者更好的把握领域进展的脉络，我们以Leaderboard的形式给出了几个数据集上的State-of-the-art实验结果。   |   [github](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey)     |
@@ -198,7 +198,7 @@
 |   汽车品牌、汽车零件相关词汇    |        |  [data](https://github.com/fighting41love/funNLP/tree/master/data)|     公司名字大全   |        |   [github repo](https://github.com/wainshine/Company-Names-Corpus)
 |   THU整理的词库   | IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库    | [link](http://thuctc.thunlp.org/)   |
 |   罪名法务名词及分类模型    |    包含856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能    |    [github](https://github.com/liuhuanyong/CrimeKgAssitant)     |
-|   分词语料库+代码    |        |  [百度网盘链接](https://panbaiducom/s/1MXZONaLgeaw0_TxZZDAIYQ)     - 提取码 pea6  |
+|   分词语料库+代码    |        |  [百度网盘链接](https://pan.baidu.com/s/1MXZONaLgeaw0_TxZZDAIYQ)     - 提取码 pea6  |
 |  基于Bi-LSTM + CRF的中文分词+词性标注     |   keras实现     |  [link](https://github.com/GlassyWing/bi-lstm-crf)  |
 | 基于Universal Transformer + CRF 的中文分词和词性标注    |        |  [link](https://github.com/GlassyWing/transformer-word-segmenter)  |
 | 快速神经网络分词包     |    java version     |   [](https://github.com/yaoguangluo/NeroParser) |
@@ -605,7 +605,7 @@
 
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
-|    中文指代消解数据    |        |   [github](https://github.com/CLUEbenchmark/CLUEWSC2020) <br>[baidu ink](https://panbaiducom/s/1gKP_Mj-7KVfFWpjYvSvAAA)  code a0qq |
+|    中文指代消解数据    |        |   [github](https://github.com/CLUEbenchmark/CLUEWSC2020) <br>[baidu ink](https://pan.baidu.com/s/1gKP_Mj-7KVfFWpjYvSvAAA)  code a0qq |
 
 
 # 文本聚类
@@ -742,7 +742,7 @@
 |   《Natural Language Processing》by Jacob Eisenstein     |        |   [github](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notespdf)  |
 |     ML-NLP    | 机器学习(Machine Learning)、NLP面试中常考到的知识点和代码实现       |    [github](https://github.com/NLP-LOVE/ML-NLP) |
 |      NLP任务示例项目代码集  |        |   [github](https://github.com/explosion/projects)  |
-|     2019年NLP亮点回顾   |        |   [download](https://panbaiducom/s/1h5gEPUhvY1HkUVc32eeX4w)  |
+|     2019年NLP亮点回顾   |        |   [download](https://pan.baidu.com/s/1h5gEPUhvY1HkUVc32eeX4w)  |
 |   nlp-recipes微软出品--自然语言处理最佳实践和范例     |        |   [github](https://github.com/microsoft/nlp-recipes)  |
 |    面向深度学习研究人员的自然语言处理实例教程    |        |   [github](https://github.com/graykode/nlp-tutorial)  |
 |   Transfer Learning in Natural Language Processing (NLP)     |        |    [youtube](https://www.youtube.com/watch?v=ly0TRNr7I_M) |
