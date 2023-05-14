@@ -363,7 +363,7 @@
 |文言文（古文）-现代文平行语料|短篇章中包括了《论语》、《孟子》、《左传》等篇幅较短的古籍，已和《资治通鉴》合并|[github](https://github.com/NiuTrans/Classical-Modern)|
 |COLDDateset，中文冒犯性语言检测数据集|涵盖了种族、性别和地区等话题内容，数据待论文发表后放出|[paper](https://arxiv.org/pdf/2201.06025.pdf)|
 |GAOKAO-bench：以中国高考题目作为数据集|以中国高考题目作为数据集，评估大语言模型的语言理解能力和逻辑推理能力的测评框架，包含1781道选择题、218道填空题和812道解答题|[github](https://github.com/OpenLMLab/GAOKAO-Bench)|
-|zero to nlp - 中文nlp应用(数据、模型、训练、推理||[github](https://github.com/yuanzhoulvpi2017/zero_nlp)|
+|zero to nlp - 中文nlp应用数据、模型、训练、推理||[github](https://github.com/yuanzhoulvpi2017/zero_nlp)|
 
 # 词库及词法工具
 
