@@ -135,11 +135,7 @@
 |   类ChatGPT模型评测总结   |   大型语言模型(LLM)受到广泛关注，这些强大的模型能够理解复杂的信息，并对各种问题提供类人的回应。其中GPT-3和GPT-4表现最好，Flan-t5和Lit-LLaMA表现也不错。但要注意，模型商用可能需要付费和数据共享    |  [blog](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)     |
 |   大型语言模型（LLMs）大盘点   |       |   [blog](https://mp.weixin.qq.com/s/y81NvvWqyOnaBoKyV_1f6A)    |
 |   大模型评测方面的最新研究   |    长文本建模一直是ChaGPT令人惊艳的能力之一，我们以【篇章翻译】为实验场景，对大模型的篇章建模能力进行全面、细粒度的测试。   |  [paper](https://arxiv.org/abs/2304.02210)     |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
+
 
 # 类ChatGPT的资料
 
@@ -155,8 +151,7 @@
 |  Transformers相关文献资源大列表    |   包含了各种各样的Transformer模型，例如BERT、GPT、Transformer-XL等，这些模型已经在许多自然语言处理任务中得到了广泛应用。此外，该列表还提供了这些模型的相关论文和代码链接，为自然语言处理领域的研究人员和开发者提供了很好的参考资源    |   [github](github.com/abacaj/awesome-transformers)    |
 |   GPT-4终极指南   |    一份关于如何使用GPT3和GPT4的指南，其中包括100多个资源，可以帮助学习如何用它来提高生活效率。包括如何学习ChatGPT基础知识、如何学习ChatGPT高级知识、如何在语言学习中使用GPT-3、如何在教学中使用GPT-3、如何使用GPT-4等，还提供了如何升级到ChatGPT+计划以使用GPT-4以及如何免费使用GPT-4的方法等内容。同时，还提供了如何在业务、生产力、受益、金钱等方面使用ChatGPT的指南   |   [link](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)    |
 |  基于LoRA的LLM参数高效微调    |       |   [link](https://sebastianraschka.com/blog/2023/llm-finetuning-lora.html)    |
-|  复杂推理：大语言模型的北极星能力     |  在 GPT-4 发布博客中，作者写道：“在一次随意的谈话中，GPT-3.5 和 GPT-4 之间的区别可能是微妙的。当任务的复杂程度达到足够的阈值时，差异就会显现出来。”这意味着复杂任务很可能是大型和小型语言模型的关键差异因素。
-在这篇文章中，我们将仔细分析讨论如何让大语言模型拥有强大的复杂推理能力。     |   [blog](https://yaofu.notion.site/6dafe3f8d11445ca9dcf8a2ca1c5b199)    |
+|  复杂推理：大语言模型的北极星能力     |  在 GPT-4 发布博客中，作者写道：“在一次随意的谈话中，GPT-3.5 和 GPT-4 之间的区别可能是微妙的。当任务的复杂程度达到足够的阈值时，差异就会显现出来。”这意味着复杂任务很可能是大型和小型语言模型的关键差异因素。在这篇文章中，我们将仔细分析讨论如何让大语言模型拥有强大的复杂推理能力。     |   [blog](https://yaofu.notion.site/6dafe3f8d11445ca9dcf8a2ca1c5b199)    |
 |   大型语言模型的涌现能力是否是海市蜃楼？   |    大语言模型的涌现能力一直是被大家视作很神奇的现象，似乎是一种大力出奇迹，但这篇论文认为这可能只是一种错觉。   |   [paper](https://arxiv.org/abs/2304.15004)    |
 |  Open LLMs：可供商业使用的开放大型语言模型(LLM)    |    A list of open LLMs available for commercial use   |   [github](github.com/eugeneyan/open-llms)    |
 |   大语言模型的概率总结  |   非常详尽的LLM科学解释和总结    |   [paper](https://wangxinyilinda.github.io/pdf/MAE_online.pdf)    |
@@ -216,7 +211,7 @@
 |  LMFlow    |   可扩展、方便有效的工具箱，用于微调大型机器学习模型    |   [github](github.com/OptimalScale/LMFlow)    |
 |闻达：大型语言模型调用平台|目前支持chatGLM-6B、chatRWKV、chatYuan和chatGLM-6B模型下的chatPDF（自建知识库查找）' |[github](github.com/l15y/wenda)|
 |Micro Agent|小型自主智能体开源项目，由LLM(OpenAI GPT-4)提供动力，可以为你编写软件，只需设置一个“目的”，让它自己工作|[github](github.com/pHaeusler/micro-agent )|
-|Llama-X||[github](开源的学术研究项目，通过社区共同努力，逐步将LLaMA的性能提高到SOTA LLM水平，节省重复工作，共同创造更多、更快的增量)|
+|Llama-X|开源的学术研究项目，通过社区共同努力，逐步将LLaMA的性能提高到SOTA LLM水平，节省重复工作，共同创造更多、更快的增量|[github](github.com/AetherCortex/Llama-X)|
 |Chinese-LLaMA-Alpaca|中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs) - 开源了经过中文文本数据预训练的中文LLaMA大模型；开源了进一步经过指令精调的中文Alpaca大模型；快速地使用笔记本电脑（个人PC）本地部署和体验量化版大模型| [github](github.com/ymcui/Chinese-LLaMA-Alpaca) |
 |Efficient Alpaca|基于LLaMA实现的开源项目，旨在通过微调 LLaMA-7B模型在资源消耗更少、推理速度更快、更适合研究者使用方面提高Stanford Alpaca的性能|[github](github.com/dropreg/efficient_alpaca)|
 |ChatGLM-6B-Slim|裁减掉20K图片Token的ChatGLM-6B，完全一样的性能，占用更小的显存| [github](github.com/silverriver/ChatGLM-6B-Slim) |
@@ -235,9 +230,7 @@
 |   rompt-Engineering-Guide-Chinese - 提示工程师指南   |     源自英文版，但增加了AIGC的prompt部分  |   [github](github.com/wangxuqi/Prompt-Engineering-Guide-Chinese)    |
 |  OpenPrompt    |  一个开放的共享Prompt社区，大家一起推荐好用的prompt     |  [github](github.com/timqian/openprompt.co)     |
 |  GPT-Prompts    |    教你如何用GPT生成Prompts   | [github](github.com/jesselau76/GPT-Prompts)      |
-|      |       |       |
-|      |       |       |
-|      |       |       |
+
 
 # 类ChatGPT的文档问答
 
@@ -246,12 +239,7 @@
 |   privateGPT    |    基于GPT4All-J的私有化部署文档问答平台，无需联网，能100%保证用户的隐私不泄露。提供了一个API，用户可以使用自己的文档进行交互式问答和生成文本。此外，平台支持自定义训练数据和模型参数，以满足个性化需求    |  [github-privateGPT](https://github.com/imartinez/privateGPT)  |
 |  Auto-evaluator：文档问答的自动评估    |       |  [github](github.com/langchain-ai/auto-evaluator)    |
 |   PDF GP   |   一个基于 GPT 实现的开源 PDF 文档聊天方案,主要实现以下功能：跟 PDF 文档进行一对一对话；自动切割内容，并使用强大的深度平均网络编码器来生成嵌入；对 PDF 内容执行语义搜索，并将最相关的嵌入传递给 Open AI；自定义逻辑，生成更精确的响应信息，速度要比 OpenAI 的快。    |    [github](github.com/bhaskatripathi/pdfGPT)   |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
+
 
 
 # 类ChatGPT的行业应用
@@ -269,8 +257,7 @@
 |   ChatGenTitle   |    使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型   |    [github](github.com/WangRongsheng/ChatGenTitle)   |
 |   Regex.ai    |    一款所见即所得的，基于 AI 的正则表达式自动生成工具，只需要选择出数据，它就能帮你写正则表达式，并提供多种提取数据的方式   |    [video](https://weibo.com/tv/show/1034:4885032649818161?from=old_pc_videoshow)   |
 |   ChatDoctor   |  一个基于医学领域知识微调LLaMA的医学聊天模型，其中医学数据包含大约700种疾病的数据、以及大约5000段医生和病人的对话记录     |   [paper](https://arxiv.org/abs/2303.14070)    |
-|      |       |       |
-|      |       |       |
+
 
 # 类ChatGPT的课程资料
 
@@ -281,12 +268,7 @@
 |  GPT-4是如何工作的？如何利用GPT-4打造智能程序？    |  哈佛大学CS50公开课     |   [video](https://weibo.com/tv/show/1034:4897967430107165?from=old_pc_videoshow)    |
 |  提示工程最佳实践：Andrew Ng 提示工程新课摘要+LangChain经验总结    |       |   [medium_blog](https://sophiamyang.medium.com/best-practices-in-prompt-engineering-a18d6bab904b)    |
 |   微调LLM模型   |   如果你对微调LLM模型感兴趣，一定要关注这个油管博主，他把几乎世面上所有的LLM模型都公开了微调的方法。    |   油管博主 Sam Witteveen    |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
+
 
 # LLM的安全问题
 
@@ -295,7 +277,7 @@
 |   LLM模型安全研究   |       |   [link](https://www.docdroid.net/KfwKd1y/llm-redteaming-pdf)    |
 |  Chatbot Injections & Exploit    | 收集了一些Chatbot注入和漏洞的例子，以帮助人们了解Chatbot的潜在漏洞和脆弱性。注入和攻击的方式包括命令注入、字符编码、社交工程、表情符号、Unicode等。仓库提供了一些示例，其中一些包括可用于攻击Chatbot的表情符号列表      | [github](github.com/Cranot/chatbot-injections-exploits)      |
 |   GPTSecurity   |    一个涵盖了前沿学术研究和实践经验分享的社区，集成了生成预训练 Transformer（GPT）、人工智能生成内容（AIGC）以及大型语言模型（LLM）等安全领域应用的知识。在这里，您可以找到关于GPT/AIGC/LLM最新的研究论文、博客文章、实用的工具和预设指令（Prompts）。   |   [github](https://github.com/mo-xiaoxi/GPTSecurity)    |
-|      |       |       |
+
 
 # 多模态LLM
 
@@ -308,12 +290,8 @@
 |  汇总6个Midjourney以外的免费以文生图服务：    |       |   [Bing Image Creator](http://t.cn/A6C1cnVg) [Playground AI](http://t.cn/A6CtFmLN) [DreamStudio](http://t.cn/A6NSI6la) [Pixlr](http://t.cn/A6NSI6li)  [Leonardo AI ](http://t.cn/A6NSI6lS)[Craiyon](http://t.cn/A6NSI6lX)    |
 | BARK   |   一个非常强大的TTS（文字转语音）项目，这个项目的特点是，它可以在文字中加入提示词，比如“大笑”。这个提示词会变成笑的声音，然后合成到语音里去。它也可以混合“男声”，“女声”，这样再做就可以不用再做拼接操作了    |   [github](github.com/suno-ai/bark)    |
 |  whisper    |   在语音转文字（STT，也称ASR）方面，whisper是我用过的最好的，最快的库。没想到，这么快的模型，还能70x的优化空间。我准备部署这个模型，并开放给大家使用，可以用来转录大的语音文件，和进行翻译。这个模型是多语言的，而且能自动识别是什么语言，真的非常强大    |    [github](github.com/sanchit-gandhi/whisper-jax)   |
-|  OFA-Chinese：中文多模态统一预训练模型    |  transformers结构的中文OFA模型     |    github.com/yangjianxin1/OFA-Chinese   |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
-|      |       |       |
+|  OFA-Chinese：中文多模态统一预训练模型    |  transformers结构的中文OFA模型     |    [github](github.com/yangjianxin1/OFA-Chinese)   |
+
 
 # LLM的数据集
 | 资源名（Name）      | 描述（Description） | 链接     |
@@ -326,8 +304,7 @@
 |ConvFinQA金融数据问答||[github](https://robustfin.github.io/2023/shared_task)|
 |   The botbots dataset   |  一个包含对话内容的数据集，对话内容来自于两个ChatGPT实例(gpt-3.5-turbo)，CLT命令和对话提示来自GPT-4，覆盖多种情境和任务，生成成本约为35美元，可用于研究和训练更小的对话模型(如Alpaca)     |   [github](github.com/radi-cho/botbots)    |
 |  alpaca_chinese_dataset - 人工精调的中文对话数据集    |       |   [github](github.com/hikariming/alpaca_chinese_dataset)    |
-|      |       |       |
-|      |       |       |
+
 
 ----
 
