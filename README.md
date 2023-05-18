@@ -164,6 +164,7 @@
 |  ChatGPT中文指南    |       |   [gitlab](https://gitlab.com/awesomeai/awesome-chatgpt-zh)    |
 |   探讨了ChatGPT在自然语言处理中的应用、优势、限制以及未来发展方向   |   强调了在使用该技术时的伦理道德考量和提示工程技术。    |    [paper](https://arxiv.org/abs/2304.02017)   |
 |大型语言模型相关文献资源列表||[github](https://github.com/RUCAIBox/LLMSurvey)|
+|大型语言模型文献综述--中文版||[github](https://github.com/fighting41love/funNLP/tree/master/data/paper/LLM_Survey_Chinese_0418.pdf)|
 |ChatGPT 相关资源大列表||[github](https://github.com/OpenMindClub/awesome-chatgpt)|
 
 # 类ChatGPT的开源框架
