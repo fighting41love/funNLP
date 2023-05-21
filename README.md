@@ -28,7 +28,7 @@
 
 长期不定时更新，欢迎watch和fork！:heart::heart::heart:
 
-|  :eggplant: :cherries: :pear: :tangerine:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|  :fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |  ----  |
 | * [类ChatGPT的模型评测对比](#类ChatGPT的模型评测对比)  <br> * [类ChatGPT的资料](#类ChatGPT的资料)  <br>* [类ChatGPT的开源框架](#类ChatGPT的开源框架)  <br>* [LLM的训练、推理、低资源、高效训练](#LLM的训练、推理、低资源、高效训练)   <br>* [提示工程](#提示工程)  <br>* [类ChatGPT的文档问答](#类ChatGPT的文档问答)  <br>* [类ChatGPT的行业应用](#类ChatGPT的行业应用)  <br>* [类ChatGPT的课程资料](#类ChatGPT的课程资料)  <br>* [LLM的安全问题](#LLM的安全问题)  <br>* [多模态LLM](#多模态LLM)  <br>* [LLM的数据集](#LLM的数据集)
 
@@ -181,7 +181,7 @@
 |   Panda: 海外中文开源大语言模型   |    基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练，使用了接近15M条数据，并针对推理能力在中文benchmark上进行了评测   |   [github-PandaLM](https://github.com/dandelionsllm/pandallm)     |
 |  Dromedary：一个开源的自对齐语言模型，只需少量人工监督即可进行训练    |       |    [github-Dromedary](https://github.com/IBM/Dromedary)   |
 |   LaMini-LM 蒸馏的小型、高效的语言模型集合  |   从 ChatGPT 蒸馏的小型、高效的语言模型集合，在2.58 M 指令大规模数据集上进行训练    |   [github](https://github.com/mbzuai-nlp/LaMini-LM)    |
-|   LLaMA-Adapter V2    |   上海人工智能实验室（www.shlab.org.cn）发布 LLaMA-Adapter V2，仅注入14M参数，1小时时间即可完成训练，对比较果确实很惊艳，且具有多模态功能（对图像进行解释和问答）    |    [github](https://github.com/ZrrSkywalker/LLaMA-Adapter)   |
+|   LLaMA-Adapter V2    |   上海人工智能实验室 LLaMA-Adapter V2，仅注入14M参数，1小时时间即可完成训练，对比较果确实很惊艳，且具有多模态功能（对图像进行解释和问答）    |    [github](https://github.com/ZrrSkywalker/LLaMA-Adapter)   |
 |   HuggingChat   |   Hugging Face 推出第一个 ChatGPT 开源替代品：HuggingChat。基于 Open Assistant  大模型搭建，支持中文对话与编写代码，但暂不支持中文回复。应用已上线，无需代理，打开即可访问    |   [link](https://huggingface.co/chat/)    |
 | Open-Chinese-LLaMA     |   基于 LLaMA-7B 经过 中文数据集增量预训练 产生的 中文大语言模型基座    |   [github](https://github.com/OpenLMLab/OpenChineseLLaMA)    |
 |   OpenLLaMA   |   LLaMA模型的开源复现，在RedPajama数据集上训练，使用了与LLaMA相同的预处理步骤和超参数，模型结构，上下文长度，训练步骤，学习率调度和优化器。OpenLLaMA的PyTorch和Jax权重可以在Huggingface Hub上获得。OpenLLaMA在各种任务中展现出与LLaMA和GPT-J相似的表现，部分任务表现优异    |  [github](https://github.com/openlm-research/open_llama)     |
