@@ -28,7 +28,7 @@
 
 长期不定时更新，欢迎watch和fork！:heart::heart::heart:
 
-|  :fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|  :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |  ----  |
 | * [类ChatGPT的模型评测对比](#类ChatGPT的模型评测对比)  <br> * [类ChatGPT的资料](#类ChatGPT的资料)  <br>* [类ChatGPT的开源框架](#类ChatGPT的开源框架)  <br>* [LLM的训练、推理、低资源、高效训练](#LLM的训练、推理、低资源、高效训练)   <br>* [提示工程](#提示工程)  <br>* [类ChatGPT的文档问答](#类ChatGPT的文档问答)  <br>* [类ChatGPT的行业应用](#类ChatGPT的行业应用)  <br>* [类ChatGPT的课程资料](#类ChatGPT的课程资料)  <br>* [LLM的安全问题](#LLM的安全问题)  <br>* [多模态LLM](#多模态LLM)  <br>* [LLM的数据集](#LLM的数据集)
 
@@ -135,7 +135,7 @@
 |   类ChatGPT模型评测总结   |   大型语言模型(LLM)受到广泛关注，这些强大的模型能够理解复杂的信息，并对各种问题提供类人的回应。其中GPT-3和GPT-4表现最好，Flan-t5和Lit-LLaMA表现也不错。但要注意，模型商用可能需要付费和数据共享    |  [blog](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)     |
 |   大型语言模型（LLMs）大盘点   |       |   [blog](https://mp.weixin.qq.com/s/y81NvvWqyOnaBoKyV_1f6A)    |
 |   大模型评测方面的最新研究   |    长文本建模一直是ChaGPT令人惊艳的能力之一，我们以【篇章翻译】为实验场景，对大模型的篇章建模能力进行全面、细粒度的测试。   |  [paper](https://arxiv.org/abs/2304.02210)     |
-
+|中文大模型评测工具&排行榜|C-Eval是一个全面的中文评估套件，适用于基础模型。它包含13948个多项选择题，涵盖52个不同的学科和四个难度级别，具体如下所示。请访问我们的网站或查阅我们的论文获取更多详细信息。|[github](https://github.com/SJTU-LIT/ceval)[paper](https://arxiv.org/abs/2305.08322)|
 
 # 类ChatGPT的资料
 
@@ -199,6 +199,9 @@
 |Chinese-ChatLLaMA|中文ChatLLaMA对话模型；预训练/指令微调数据集，基于 TencentPretrain 多模态预训练框架构建，支持简繁体中文、英文、日文等多语言|[github](https://github.com/ydli-ai/Chinese-ChatLLaMA)|
 |Lit-LLaMA|基于Apache 2.0许可证完全开源的LLaMA独立实现，建立在nanoGPT之上，旨在解决原始LLaMA代码采用GPL许可证的限制，以实现更广泛的学术和商业应用|[github](https://github.com/Lightning-AI/lit-llama)|
 |MosaicML|MPT-7B-StoryWriter，65K tokens，可以把《了不起的盖茨比》都一次性扔进去。|[huggingface](https://huggingface.co/spaces/mosaicml/mpt-7b-storywriter)|
+|Langchain|大型语言模型（LLMs）正在成为一项具有变革性的技术，使开发者能够构建以前无法实现的应用程序。然而，仅仅使用这些独立的LLMs通常不足以创建一个真正强大的应用程序 - 真正的力量来自于能够将它们与其他计算或知识来源相结合。|[github](https://github.com/hwchase17/langchain)|
+|Guidance|引导能够比传统的提示或链接更有效地控制现代语言模型，并且更高效。引导程序允许您将生成、提示和逻辑控制交错到单一连续流中，与语言模型实际处理文本的方式相匹配。像"Chain of Thought"及其许多变体（例如ART、Auto-CoT等）这样的简单输出结构已被证明能改善语言模型的性能。更强大的语言模型（如GPT-4）的出现使得更丰富的结构成为可能，而引导则使得构建这种结构变得更加容易和经济。|[github](https://github.com/microsoft/guidance)|
+|WizardLM|赋予大型预训练语言模型遵循复杂指令的能力，使用完整进化指令（约300k）训练的WizardLM-7B模型|[github](https://github.com/nlpxucan/WizardLM)|
 
 # LLM的训练、推理、低资源、高效训练
 | 资源名（Name）      | 描述（Description） | 链接     |
@@ -271,6 +274,7 @@
 |   ChatDoctor   |  一个基于医学领域知识微调LLaMA的医学聊天模型，其中医学数据包含大约700种疾病的数据、以及大约5000段医生和病人的对话记录     |   [paper](https://arxiv.org/abs/2303.14070)    |
 |CodeGPT|提高编程能力的关键在于数据。CodeGPT是通过GPT生成的用于GPT的代码对话数据集。现在公开了32K条中文数据，让模型更擅长编程|[github](https://github.com/zxx000728/CodeGPT)|
 |LaWGPT |一系列基于中文法律知识的开源大语言模型|[github](https://github.com/pengxiao-song/LawGPT)|
+|LangChain-ChatGLM-Webui|受langchain-ChatGLM启发, 利用LangChain和ChatGLM-6B系列模型制作的Webui, 提供基于本地知识的大模型应用.目前支持上传 txt、docx、md、pdf等文本格式文件, 提供包括ChatGLM-6B系列、Belle系列等模型文件以及GanymedeNil/text2vec-large-chinese、nghuyong/ernie-3.0-base-zh、nghuyong/ernie-3.0-nano-zh等Embedding模型.|[github](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui)|
 
 # 类ChatGPT的课程资料
 
@@ -343,7 +347,6 @@
 |    省市区镇行政区划数据带拼音标注    |        |   [github](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)  |
 |    教育行业新闻 自动文摘 语料库    |        |   [github](https://github.com/wonderfulsuccess/chinese_abstractive_corpus)  |
 |    中文自然语言处理数据集    |        |  [github](https://github.com/InsaneLife/ChineseNLPCorpus)   |
-<!-- |     百度知道问答语料库   |   超过580万的问题，938万的答案，5800个分类标签。基于该问答语料库，可支持多种应用，如闲聊问答，逻辑挖掘     | [github](https://github.com/liuhuanyong/MiningZhiDaoQACorpus)  | -->
 |     维基大规模平行文本语料   |  85种语言、1620种语言对、135M对照句  |  [github](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix) 
 |   古诗词库     |        |  [github repo](https://github.com/panhaiqi/AncientPoetry) <br>[更全的古诗词库](https://github.com/chinese-poetry/chinese-poetry)
 |   低内存加载维基百科数据    |     用新版nlp库加载17GB+英文维基语料只占用9MB内存遍历速度2-3 Gbit/s    |   [github](https://gistgithub.com/thomwolf/13ca2b2b172b2d17ac66685aa2eeba62) |
