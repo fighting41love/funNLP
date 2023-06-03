@@ -30,7 +30,7 @@
 
 |  :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |  ----  |
-| * [类ChatGPT的模型评测对比](#类ChatGPT的模型评测对比)  <br> * [类ChatGPT的资料](#类ChatGPT的资料)  <br>* [类ChatGPT的开源框架](#类ChatGPT的开源框架)  <br>* [LLM的训练、推理、低资源、高效训练](#LLM的训练、推理、低资源、高效训练)   <br>* [提示工程](#提示工程)  <br>* [类ChatGPT的文档问答](#类ChatGPT的文档问答)  <br>* [类ChatGPT的行业应用](#类ChatGPT的行业应用)  <br>* [类ChatGPT的课程资料](#类ChatGPT的课程资料)  <br>* [LLM的安全问题](#LLM的安全问题)  <br>* [多模态LLM](#多模态LLM)  <br>* [LLM的数据集](#LLM的数据集)
+| * [类ChatGPT的模型评测对比](#类ChatGPT的模型评测对比)  <br> * [类ChatGPT的资料](#类ChatGPT的资料)  <br>* [类ChatGPT的开源框架](#类ChatGPT的开源框架)  <br>* [LLM的训练_推理_低资源_高效训练](#LLM的训练_推理_低资源_高效训练)   <br>* [提示工程](#提示工程)  <br>* [类ChatGPT的文档问答](#类ChatGPT的文档问答)  <br>* [类ChatGPT的行业应用](#类ChatGPT的行业应用)  <br>* [类ChatGPT的课程资料](#类ChatGPT的课程资料)  <br>* [LLM的安全问题](#LLM的安全问题)  <br>* [多模态LLM](#多模态LLM)  <br>* [LLM的数据集](#LLM的数据集)
 
  
 |  :eggplant: :cherries: :pear: :tangerine:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |  :sunflower: :strawberry:  :melon: :tomato: :pineapple: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
@@ -203,9 +203,11 @@
 |Guidance|引导能够比传统的提示或链接更有效地控制现代语言模型，并且更高效。引导程序允许您将生成、提示和逻辑控制交错到单一连续流中，与语言模型实际处理文本的方式相匹配。像"Chain of Thought"及其许多变体（例如ART、Auto-CoT等）这样的简单输出结构已被证明能改善语言模型的性能。更强大的语言模型（如GPT-4）的出现使得更丰富的结构成为可能，而引导则使得构建这种结构变得更加容易和经济。|[github](https://github.com/microsoft/guidance)|
 |WizardLM|赋予大型预训练语言模型遵循复杂指令的能力，使用完整进化指令（约300k）训练的WizardLM-7B模型|[github](https://github.com/nlpxucan/WizardLM)|
 
-# LLM的训练、推理、低资源、高效训练
+# LLM的训练_推理_低资源_高效训练
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :----   |          :--- |
+|QLoRA--Guanaco|一种高效的微调方法，可以在单个48GB的GPU上微调一个拥有65B参数的模型，同时保持完整的16位微调任务性能，并通过QLoRA将梯度反向传播通过一个冻结的、4位量化的预训练语言模型到低秩适配器（LoRA）|[github](https://github.com/artidoro/qlora)|
+|Chinese-Guanaco|一个中文低资源的量化训练/部署方案|[github](https://github.com/jianzhnie/Chinese-Guanaco)|
 |   DeepSpeed Chat: 一键式RLHF训练  |       |   [github](http://github.com/microsoft/DeepSpeed/)    |
 |   LLMTune: 在消费级GPU上微调大型65B+LLM   |   可以在普通消费级GPU上进行4位微调，例如最大的65B LLAMA模型。LLMTune还实现了LoRA算法和GPTQ算法来压缩和量化LLM，并通过数据并行处理大型模型。此外，LLMTune提供了命令行界面和Python库的使用方式    |  [github](https://github.com/kuleshov-group/llmtune)     |
 |  基于ChatGLM-6B+LoRA在指令数据集上进行微调    |  基于deepspeed支持多卡微调，速度相比单卡提升8-9倍具体设置可见 微调3 基于DeepSpeed进行Lora微调     |    [github](https://github.com/yanqiangmiffy/InstructGLM)   |
@@ -228,16 +230,16 @@
 |Alpaca-LoRA|用LoRA在消费级硬件上复现斯坦福Alpaca的结果|[github](https://ggithub.com/official-elinas/alpaca-lora-optimized)|
 |LLM Accelerator|让基础大模型更聪明的LLM Accelerator来了！基础大模型正在诸多应用中发挥着日益重要的作用。大多数大语言模型的训练都是采取自回归的方式进行生成，虽然自回归模型生成的文本质量有所保证，但却导致了高昂的推理成本和长时间的延迟。由于大模型的参数量巨大、推理成本高，因此如何在大规模部署大模型的过程中降低成本、减小延迟是一个关键课题。针对此问题，微软亚洲研究院的研究员们提出了一种使用参考文本无损加速大语言模型推理的方法 LLM Accelerator，在大模型典型的应用场景中可以取得两到三倍的加速。|[blog](https://weibo.com/ttarticle/p/show?id=2309404902475139252775)|
 |大语言模型（LLM）微调技术笔记||[github](https://github.com/ninehills/ninehills.github.io/issues/92)|
-|PyLLMs|个简洁的 Python 库，用于连接各种 LLM(OpenAI、Anthropic、Google、AI21、Cohere、Aleph Alpha、HuggingfaceHub)，内置模型性能基准。非常适合快速原型设计和评估不同模型，具有以下特点：通过少量代码连接顶级 LLM；响应元数据包括处理的Token、成本和延迟，对各个模型进行标准化；支持多模型：同时从不同模型获取补全；LLM 基准：评估模型的质量、速度和成本|[github](https://github.com/kagisearch/pyllms)|
+|PyLLMs|简洁的 Python 库，用于连接各种 LLM(OpenAI、Anthropic、Google、AI21、Cohere、Aleph Alpha、HuggingfaceHub)，内置模型性能基准。非常适合快速原型设计和评估不同模型，具有以下特点：通过少量代码连接顶级 LLM；响应元数据包括处理的Token、成本和延迟，对各个模型进行标准化；支持多模型：同时从不同模型获取补全；LLM 基准：评估模型的质量、速度和成本|[github](https://github.com/kagisearch/pyllms)|
 |用混合精度加速大型语言模型|通过使用低精度浮点数运算，可以将训练和推断速度提升多达3倍，同时不影响模型准确性|[blog](https://sebastianraschka.com/blog/2023/llm-mixed-precision.html)|
-|新的LLM训练方法 Federate|杜克大学，微软一起发布了一个新的LLM训练方法 Federated GPT，这个训练方法是将原本中心化的训练方法分散到不同的边缘设备里面（edge device），然后训练完成后，再上传到中心去将各子模型合并。|[github](https://github.com/JayZhang42/FederatedGPT-Shepherd)|
+|新的LLM训练方法 Federate|杜克大学和微软一起发布了一个新的LLM训练方法 Federated GPT，这个训练方法是将原本中心化的训练方法分散到不同的边缘设备里面（edge device），然后训练完成后，再上传到中心去将各子模型合并。|[github](https://github.com/JayZhang42/FederatedGPT-Shepherd)|
 
 # 提示工程
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :----   |          :--- |
 |   OpenBuprompt-engineering-note  |   提示工程笔记(课程总结)》介绍了面向开发者的 ChatGPT Prompt Engineering Learning Notes 课程，该课程提供了语言模型的工作原理和提示工程实践，并展示了如何将语言模型 API 应用于各种任务的应用程序中。课程包括总结、推断、转换、扩展和打造聊天机器人等方面的内容，并讲述了如何设计好的提示和构建自定义聊天机器人。  |  [github-OpenBuprompt](https://islinxu.github.io/prompt-engineering-note/)  |
 |  提示工程指南    |       |   [link](https://www.promptingguide.ai/zh)    |
-|  AIGC提示工程学习站 Learn Prompt   |  (ChatGPT/Midjourney/Runway)      |  [link](https://www.learnprompt.pro/)     |
+|  AIGC提示工程学习站 Learn Prompt   |  ChatGPT/Midjourney/Runway     |  [link](https://www.learnprompt.pro/)     |
 |  Prompts 精选 - ChatGPT 使用指南    |   ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性    |  [github](https://github.com/yzfly/wonderful-prompts)     |
 |   非官方的ChatGPT资源聚合列表，旨在汇总使用ChatGPT   |    旨在汇总使用ChatGPT的应用、Web应用、浏览器扩展、CLI工具、机器人、集成、软件包、文章等资源   |   [github](https://github.com/sindresorhus/awesome-chatgpt)    |
 | Snack Prompt：ChatGPT Prompt提示分享社区   |       |    [link](https://snackprompt.com/)   |
@@ -252,7 +254,7 @@
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :----   |          :--- |
 |   privateGPT    |    基于GPT4All-J的私有化部署文档问答平台，无需联网，能100%保证用户的隐私不泄露。提供了一个API，用户可以使用自己的文档进行交互式问答和生成文本。此外，平台支持自定义训练数据和模型参数，以满足个性化需求    |  [github-privateGPT](https://github.com/imartinez/privateGPT)  |
-|  Auto-evaluator：文档问答的自动评估    |       |  [github](https://github.com/langchain-ai/auto-evaluator)    |
+|  Auto-evaluator   |  文档问答的自动评估 ；、     |  [github](https://github.com/langchain-ai/auto-evaluator)    |
 |   PDF GP   |   一个基于 GPT 实现的开源 PDF 文档聊天方案,主要实现以下功能：跟 PDF 文档进行一对一对话；自动切割内容，并使用强大的深度平均网络编码器来生成嵌入；对 PDF 内容执行语义搜索，并将最相关的嵌入传递给 Open AI；自定义逻辑，生成更精确的响应信息，速度要比 OpenAI 的快。    |    [github](https://github.com/bhaskatripathi/pdfGPT)   |
 |Redis-LLM-Document-Chat|用LlamaIndex、Redis和OpenAI与PDF文档进行交互，包含一个Jupyter笔记本，演示了如何使用Redis作为向量数据库来存储和检索文档向量，还展示了如何使用LlamaIndex在文档中执行语义搜索，以及如何利用OpenAI提供类似聊天机器人的体验|[github](https://github.com/RedisVentures/LLM-Document-Chat)|
 |doc-chatbot|GPT-4 + Pinecone + LangChain + MongoDB实现的文档聊天机器人，可多文件、多话题和多窗口聊天，聊天历史由MongoDB保存|[github](https://github.com/dissorial/doc-chatbot )|
