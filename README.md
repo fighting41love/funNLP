@@ -274,6 +274,7 @@
 |  CodeGen2: Lessons for Training LLMs on Programming and Natural Languages    |   code generation    |    [paper](https://arxiv.org/abs/2305.02309)   |
 |  MedicalGPT-zh：中文医疗通用语言模型    |   中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力    |    [github](https://github.com/MediaBrain-SJTU/MedicalGPT-zh)   |
 |  MagicSlides    |    不少人梦寐以求的AI自作PPT，免费版每月能做3个PPT，支持2500字输入   |    [link](https://www.magicslides.app/)   |
+|  MagicForm    |    很多人梦想AI做测验，免费版每月可以做3个测验，支持6000个字符输入   |    [link](https://www.magicform.app/)   |
 |   SalesGPT   |   使用LLM实现上下文感知的销售助手，可自动化销售拓展代表的活动，如外呼销售电话    |   [github](https://github.com/filip-michalsky/SalesGPT)    |
 |  华驼(HuaTuo): 基于中文医学知识的LLaMA微调模型    |       |   [github](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)    |
 |  ai-code-translator    |  帮助你把代码从一种语言翻译成另一种语言，这事对ChatGPT来说简直太擅长了，尤其是GPT-4，翻译质量相当高，而且tokens长度也可以更长。     |    [github](https://github.com/mckaywrigley/ai-code-translator)   |
