@@ -330,6 +330,7 @@
 |   多模态数据集MMC4   |    5.8亿图片，1亿文档，400亿token   |   [github](https://github.com/allenai/mmc4)    |
 |  EleutherAI 数据   |   800g的文本语料给你整合好了免费下载，不知道trian出来的model质量如何，打算试试：    |    [pile data](huggingface.co/datasets/EleutherAI/the_pile)    [paper](http://t.cn/A6NqJ2Zl)   |
 |UltraChat|大规模、信息丰富、多样化的多轮对话数据|[github](https://github.com/thunlp/UltraChat)|
+|AI/ML API|AI/ML API提供300+AI模型，包括Deepseek，Gemini和ChatGPT。 这些型号以企业级速率限制和正常运行时间运行|[link](https://aimlapi.com/app/?utm_source=funNLP&utm_medium=github&utm_campaign=integration) |
 |ConvFinQA金融数据问答||[github](https://robustfin.github.io/2023/shared_task)|
 |   The botbots dataset   |  一个包含对话内容的数据集，对话内容来自于两个ChatGPT实例(gpt-3.5-turbo)，CLT命令和对话提示来自GPT-4，覆盖多种情境和任务，生成成本约为35美元，可用于研究和训练更小的对话模型(如Alpaca)     |   [github](https://github.com/radi-cho/botbots)    |
 |  alpaca_chinese_dataset - 人工精调的中文对话数据集    |       |   [github](https://github.com/hikariming/alpaca_chinese_dataset)    |
