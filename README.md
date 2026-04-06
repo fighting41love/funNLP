@@ -116,6 +116,7 @@
    * [医疗NLP](#医疗自然语言处理)
    * [法律NLP](#法律自然语言处理)
    * [其他](#其他) -->
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with NLP tasks, research automation, and quality gates. MIT licensed.
 
 <!--te-->
     
